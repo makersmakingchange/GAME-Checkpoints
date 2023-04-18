@@ -14,7 +14,7 @@ The files contained on this page are the resources that were given to the center
 - [Makers Making Change Gaming Devices](<https://makersmakingchange.com/assistive-devices/?_sft_type=gaming>)
 
 
-## How do I use the resources?
+## How do I use these resources?
 
 This is an open-source assistive technology, so anyone is free to utilize the content that is found on this page. An explanation of the content and link to the files can be seen below:
 
