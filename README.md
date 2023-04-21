@@ -1,5 +1,7 @@
  
- # GAME Checkpoints (Gaming Accessibility Made for Everyone)
+# This README is under development 
+
+# GAME Checkpoints (Gaming Accessibility Made for Everyone)
 
 ## SUMMARY 
 The GAME Checkpoints project pilot spanned from October 2022 - March 2023. We worked with clincial, education, and game development organizations to establish adaptive gaming spaces within their organization. This increased the ability for gamers to access assitive technology around gaming and test out technology relevant to them with experts while also educating the Checkpoint leads on accessibility in gaming.
