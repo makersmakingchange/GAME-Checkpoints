@@ -22,7 +22,7 @@ The files contained on this page are the resources that were given to the center
 This is an open-source assistive technology, so anyone is free to utilize the content that is found on this page. An explanation of the content and link to the files can be seen below:
 
 ### GAME Checkpoint Reference Guides
-A 6 part booklet series that is intended to be use as a tool by the centers to be a quick reference of revlevant information.
+A 6 part booklet series that is intended to be use as a tool by the centers to be a quick reference of relevant information.
 
 ### Gamer Questionnaires
 
