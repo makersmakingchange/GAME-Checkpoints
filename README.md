@@ -31,7 +31,7 @@ A 6 part booklet series that is intended to be use as a tool by the centers to b
 ### Templates
 
 
-
+<!--
 ## Files
 ### Documentation
 | Document             | Version | Link |
@@ -41,7 +41,7 @@ A 6 part booklet series that is intended to be use as a tool by the centers to b
 | Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Device-Name_BOM_v1.0.xlsx)     |
 | User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Device-Name_Quick_Guide_v1.0.pdf)    |
 | Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
-
+-->
 
 
 ## Attribution
