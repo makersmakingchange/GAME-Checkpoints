@@ -1,10 +1,10 @@
 ---
 layout: single
-title: My Homepage
+title: Reference Guides
 ---
 
-# Welcome to My Homepage
+# Header   1
 
-## Subheading
+## Subheading 1
 
 This is a simple Markdown homepage with a title, heading, subheading, and a paragraph. You can customize and add more content as needed.
