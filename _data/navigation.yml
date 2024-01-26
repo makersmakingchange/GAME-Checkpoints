@@ -5,4 +5,4 @@ main:
   - title: "Makers Making Change"
     url: https://www.makersmakingchange.com/s/
   - title: "Contact"
-    url: \_includes\author-profile.html
+    url: /_includes/author-profile/
