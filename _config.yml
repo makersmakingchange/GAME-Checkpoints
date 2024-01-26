@@ -130,25 +130,21 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: " "
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MakerMakeChange"
-    - label: "Facebook"
+    - label: " "
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
+      url: "https://www.facebook.com/makersmakechange"
+    - label: " "
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
+      url: "https://github.com/makersmakingchange"
+    - label: " "
       icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://www.instagram.com/makersmakingchange"
+    - label: " "
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCtn0ODz_yq_w9Uy6lUXGX-A"
 
 # Reading Files
 include:
