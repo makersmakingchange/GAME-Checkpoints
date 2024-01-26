@@ -1,3 +1,4 @@
+# This is the website README
 # This README is under development 
 Some links might not work and we are trying things out as we continue to launch these resources. However, this is an public GitHub as the current checkpoints need access to these digital documents. Thank you for your paitence :)
 
