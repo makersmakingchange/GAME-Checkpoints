@@ -198,16 +198,16 @@ compress_html:
     envs: development
 
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: page
-    values:
-      layout: splash
-      author_profile: false
-      read_time: false
-      comments: # true
-      share: false
-      related: false
+# # Defaults
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: page
+#     values:
+#       layout: splash
+#       author_profile: false
+#       read_time: false
+#       comments: # true
+#       share: false
+#       related: false
