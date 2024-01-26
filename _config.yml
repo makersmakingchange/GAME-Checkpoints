@@ -22,39 +22,39 @@ name                     : "Makers Making Change"
 description              : "Resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
 url                      : "https://makersmakingchange.github.io/GAME-Checkpoints/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "makersmakingchange/GAME-CHeckpoints"
+repository               : "makersmakingchange/GAME-Checkpoints"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "GAME Checkpoint Resources "
+masthead_title           : "GAME Checkpoint Resources"
 breadcrumbs              : false
 words_per_minute         : 200
 
 
-# Contact information
-author:
-  name             : "Tyler"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The description goes here"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+# # Contact information
+# author:
+#   name             : "Tyler"
+#   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#   bio              : "The description goes here"
+#   email            :
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       # url: "mailto:your.name@email.com"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       # url: "https://your-website.com"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url: "https://twitter.com/"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url: "https://facebook.com/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       # url: "https://github.com/"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
