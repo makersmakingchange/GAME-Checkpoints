@@ -278,18 +278,19 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
 
+# Pages formatting 
 defaults:
   # _pages
   - scope:
       permalink: /reference_guides/
-      path: "_pages/reference_guides"
+      path: "/_pages/reference_guides/"
       type: pages
     values:
       layout: single
