@@ -220,4 +220,4 @@ defaults:
       path: "/_pages/reference_guides/"
       type: pages
     values:
-      layout: single
+      layout: splash
