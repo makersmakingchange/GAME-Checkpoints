@@ -31,9 +31,9 @@ words_per_minute         : 200
 
 
 
-# Site Author
+# Contact information
 author:
-  name             : "Your Name"
+  name             : "Tyler"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The description goes here"
   email            :

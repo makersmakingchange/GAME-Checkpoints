@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "Makers Making Change"
-    url: https://www.makersmakingchange.com/s/
   - title: "Reference Guides"
     url: /_pages/reference_guides/
+  - title: "Makers Making Change"
+    url: https://www.makersmakingchange.com/s/
+  - title: "Contact"
+    url: \_includes\author-profile.html
