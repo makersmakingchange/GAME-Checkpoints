@@ -28,7 +28,6 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : "GAME Checkpoint Resources "
 breadcrumbs              : true
 words_per_minute         : 200
-Layout:                  : splash
 
 
 # Contact information
