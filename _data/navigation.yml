@@ -6,3 +6,5 @@ main:
     url: https://www.makersmakingchange.com/s/
   - title: "Contact"
     url: /_includes/author-profile/
+  - title: "Splash Test"
+    url: /_pages/test_splash_page/
