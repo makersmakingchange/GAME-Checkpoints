@@ -216,8 +216,7 @@ defaults:
 defaults:
   # _pages
   - scope:
-      permalink: /reference_guides/
-      path: "/_pages/reference_guides/"
+      path: " "
       type: pages
     values:
       layout: splash
