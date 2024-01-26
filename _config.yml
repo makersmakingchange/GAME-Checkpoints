@@ -284,3 +284,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+defaults:
+  # _pages
+  - scope:
+      permalink: /reference_guides/
+      path: "_pages/reference_guides"
+      type: pages
+    values:
+      layout: single

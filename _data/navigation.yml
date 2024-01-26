@@ -2,3 +2,5 @@
 main:
   - title: "Makers Making Change"
     url: https://www.makersmakingchange.com/s/
+  - title: "Reference Guides"
+    url: /_pages/reference_guides/
