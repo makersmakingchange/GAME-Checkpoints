@@ -38,13 +38,12 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
-  - video:
-      id: 66lpzpTknA
-      provider: youtube
-    title: "GF Strong GAME Checkpoint"
-    excerpt: 'Learn more about the GAME Checkpoint program and the GF Strong Checkpoint'
+  - image_path: assets/images/500x300.png
+    alt: "-" # complete this once image is fixed.
+    title: "Low Cost Gaming Assistive Tech"
+    excerpt: 'Visit the Makers Making Change library with the filter "Gaming" and request a device or find the files to build one.'
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: assets/images/500x300.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -52,13 +51,11 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - video:
+      id: 66lpzpTknA
+      provider: youtube
+    title: "GF Strong Rehabilitation Centre GAME Checkpoint"
+    excerpt: 'Learn more about the GAME Checkpoint program and how the GF Strong staff are utilizing the program to serve gamers in the Vancouver area.'
 ---
 
 {% include feature_row id="intro" type="center" %}
