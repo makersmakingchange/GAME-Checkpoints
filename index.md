@@ -9,8 +9,6 @@ header:
     - label: "Download All Files"
       url: "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/makersmakingchange/GAME-Checkpoints" # direct link to download the Main branch
 excerpt: "This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
-intro: 
-  - excerpt: 'Click the below sections of the resources to be taken to directly download or view them'
 feature_row:
   - image_path: assets/images/500x300.png
     alt: "placeholder image 1"
@@ -28,6 +26,12 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
     title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/500x300.png
+    title: "Placeholder 4"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
