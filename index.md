@@ -20,7 +20,7 @@ feature_row:
   - image_path: assets/images/500x300.png
     alt: "-" # complete this once image is fixed.
     title: "Materials"
-    excerpt: "The gaming gear that is recommended for a full accessible gaming space"
+    excerpt: "The gaming gear that is recommended for a full accessible gaming space."
     url: "/_pages/Materials/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
