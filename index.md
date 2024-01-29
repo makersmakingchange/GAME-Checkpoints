@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/GAME-Checkpoints-Website-Header.png
+  overlay_image: /assets/images/Website-Header-1.png
   actions:
     - label: "Download All Files"
       url: "https://github.com/mmistakes/minimal-mistakes/"
