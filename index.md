@@ -21,20 +21,20 @@ feature_row:
     alt: "-" # complete this once image is fixed.
     title: "Materials"
     excerpt: "The gaming gear that is recommended for a full accessible gaming space"
-    url: "#test-link"
+    url: "/_pages/Materials/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
     title: "Gamer Session Questionnaire"
     excerpt: "A questionnaire document to help determine the gaming goals and possible setup with a gamer. A insights document as well to explain the purpose of the questions."
-    url: "-" #complete this once image is fixed.
+    url: "/_pages/Session_Questionnaire/" 
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
     alt: "-" # complete this once image is fixed.
     title: "Templates"
     excerpt: "If you are looking to expand on our documentation, we have templated some of the content already for you."
-    url: "#test-link"
+    url: "/_pages/Templates/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
