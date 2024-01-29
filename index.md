@@ -44,18 +44,21 @@ feature_row2:
     excerpt: 'Visit the Makers Making Change library with the filter "Gaming" and request a device or find the files to build one.'
 feature_row3:
   - image_path: assets/images/500x300.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: ""
+    title: "Want to stay up to date on the GAME Checkpoints program and other programs?"
+    excerpt: 'Sign up for the Makers Making Change website! Find 200+ open source low cost assitive technologies, resources, and upcoming events.'
+    url: "https://www.makersmakingchange.com/s/login/SelfRegister?startURL=%2Fs%2F%3Ft%3D1706554861397"
+    btn_label: "Sign up to Makers Making Change"
     btn_class: "btn--primary"
 feature_row4:
   - video:
       id: 66lpzpTknA
       provider: youtube
-    title: "GF Strong Rehabilitation Centre GAME Checkpoint"
-    excerpt: 'Learn more about the GAME Checkpoint program and how the GF Strong staff are utilizing the program to serve gamers in the Vancouver area.'
+    title: "GAME Checkpoint - GF Strong Rehabilitation Centre"
+    excerpt: 'Learn more about the GAME Checkpoint program and how the GF Strong staff are utilizing the gear and trianing to serve gamers in the Vancouver area.'
+    url: "https://neilsquire.us3.list-manage.com/subscribe?u=d23a18433c4afe9206139e240&id=af948441ae"
+    btn_label: "Sign up to Newsletter"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
