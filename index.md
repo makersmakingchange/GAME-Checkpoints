@@ -14,7 +14,7 @@ feature_row:
     alt: "-" #complete this once image is fixed.
     title: "Reference Guides"
     excerpt: "These guides are intended as tools to be used during or while prepping for an adaptive gaming session. Topics cover gaming gear, gaming basics, game guides, and best practices."
-    url: "https://makersmakingchange.github.io/GAME-Checkpoints/_pages/reference_guides/"
+    url: "/_pages/reference_guides/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
