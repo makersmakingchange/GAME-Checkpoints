@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Contact - Accessible Gaming Team
+title: Materials
 ---
 
 # Header   1

@@ -1,8 +1,14 @@
 # main links
 main:
-  - title: "Reference Guides"
-    url: /_pages/reference_guides/
   - title: "Makers Making Change"
     url: https://www.makersmakingchange.com/s/
+  - title: "Reference Guides"
+    url: /_pages/reference_guides/
+  - title: "Materials"
+    url: /_pages/Materials/
+  - title: "Session Questionnaire"
+    url: /_pages/Session_Questionnaire/
+  - title: "Templates"
+    url: /_pages/Templates/ 
   - title: "Contact"
-    url: /_pages/contact/
+    url: /_pages/contact/       
