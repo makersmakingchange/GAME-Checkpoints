@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/GAME-Checkpoints-Website-Header.png
   actions:
-    - label: "Download all files"
+    - label: "Download All Files"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
 intro: 
