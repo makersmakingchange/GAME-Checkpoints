@@ -13,7 +13,7 @@ excerpt: "The reference guides are broken into 5 main sections along with an app
 
   - Section 5: Best Practices
 
-        This is where you can download the reference guides to use."
+This is where you can download the reference guides to use."
 
 header:
   overlay_color: "#333"
