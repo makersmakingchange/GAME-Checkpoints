@@ -2,13 +2,14 @@
 title: "GAME Checkpoint Resources"
 layout: splash
 excerpt: |
-  The reference guides are broken into 5 main sections along with an appendices document:
+  The reference guides are broken into 5 booklets along with an appendices document:
 
-  - Section 1: Introduction (general version)
-  - Section 2: Gaming Gear
-  - Section 3: Gaming Basics
-  - Section 4: Game Training (specific guides/documentation on 10 games)
-  - Section 5: Best Practices
+  - Booklet 1: Introduction (general version)
+  - Booklet 2: Gaming Gear
+  - Booklet 3: Gaming Basics
+  - Booklet 4: Game Training (specific guides/documentation on 10 games)
+  - Booklet 5: Best Practices
+  - Appendices document
 
   This is where you can download the reference guides to use.
 
@@ -18,43 +19,56 @@ header:
 feature_row:
   - image_path: assets/images/500x300.png
     alt: "-" #complete this once image is fixed.
-    title: "Reference Guides"
-    excerpt: "These guides are intended as tools to be used during or while prepping for an adaptive gaming session. Topics cover gaming gear, gaming basics, game guides, and best practices."
-    url: "/_pages/reference_guides/"
-    btn_label: "Learn More"
+    title: "Introduction"
+    excerpt: |
+     Overview asdfasdfasdfasdf
+        - Overview of what is possible in adaptive gaming and why it is important.
+        - Information on the MMC community around you and how to get support.
+    url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%201%20-%20General%20Intro%20-%20v1.pdf"
+    btn_label: "Go To Document"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
     alt: "-" # complete this once image is fixed.
-    title: "Materials"
-    excerpt: "The gaming gear that is recommended for a full accessible gaming space."
-    url: "/_pages/Materials/"
-    btn_label: "Learn More"
+    title: "Gaming Gear"
+    excerpt: |
+     Overview asdfasfasdfasdf
+        - Breakdown of the gaming devices and assistive technology that is used in adaptive gaming.
+        - Describe compatibility and use cases of the devices.
+    url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%202%20-%20Gaming%20Gear%20-%20v1.pdf"
+    btn_label: "Go To Document"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
-    title: "Gamer Session Questionnaire"
-    excerpt: "A questionnaire document to help determine the gaming goals and possible setup with a gamer. A insights document as well to explain the purpose of the questions."
-    url: "/_pages/Session_Questionnaire/" 
-    btn_label: "Learn More"
+    title: "Gaming Basics"
+    excerpt: |
+     Overview asdfasfasdfasdf
+        - Breakdown of the gaming world and education of gaming culture.
+        - Discussion of the variety of experiences players can have.
+        - Accessibility in video games and how to navigate those features.
+    url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%203%20-%20Gaming%20Basics%20-%20v1.pdf" 
+    btn_label: "Go To Document"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
     alt: "-" # complete this once image is fixed.
-    title: "Templates"
-    excerpt: "If you are looking to expand on our documentation, we have templated some of the content already for you."
-    url: "/_pages/Templates/"
-    btn_label: "Learn More"
+    title: "Game Training"
+    excerpt: |
+     Overview asdfasfasdfasdf
+        - Summary of the key aspects of the 10 games that were supplied by the MMC team.
+        - Quick reference of the accessibility features and playstyles of the games.
+    url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%204%20-%20Game%20Training%20-%20v1.pdf"
+    btn_label: "Go To Document"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: assets/images/500x300.png
     alt: "-" # complete this once image is fixed.
-    title: "Low Cost Gaming Assistive Tech"
-    excerpt: 'Visit the Makers Making Change library with the filter "Gaming" and request a device or find the files to build one.'
-    url: "https://makersmakingchange.my.site.com/s/category/assistive-devices/0ZGJR00000002Mn4AI?c__results_layout_state=%7B%22page_number%22%3A1%2C%22category_id%22%3A%220ZGJR00000002Mn4AI%22%2C%22refinements%22%3A%5B%7B%22nameOrId%22%3A%22Device_Category__c%22%2C%22type%22%3A%22DistinctValue%22%2C%22attributeType%22%3A%22Custom%22%2C%22values%22%3A%5B%22Gaming%22%5D%7D%5D%7D"
-    btn_label: "Fing Low Cost Gaming AT"
+    title: "Best Practices"
+    excerpt: |
+     Overview asdfasfasdfasdf
+        - Overview of the potential process your organization may use with a gamer visiting your space.
+        - Summary of the tips and tricks when creating adaptive gaming set up.
+    url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%205%20-%20Best%20Practices%20-%20v1.pdf"
+    btn_label: "Go To Document"
     btn_class: "btn--primary"
 
 ---
 
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
