@@ -1,10 +1,33 @@
 ---
-layout: single
-title: Contact - Accessible Gaming Team
+title: "Contact - Accessible Gaming Team"
+layout: splash
+
+excerpt: |
+  Tyler Fentie and Josie Versloot are the main contacts for the accessible gaming team at MMC. See their contact information below.
+
+  - General Makers Making Change Contact: info@makersmakingchange.com
+
+header:
+  overlay_color: "#333"
+  actions:
+    - label: "Sign up for Makers Making Change"
+      url: "https://www.makersmakingchange.com/s/login/SelfRegister?startURL=%2Fs%2Fadaptive-gaming%3Ft%3D1706657381300" # direct link to download the Main branch
+feature_row:
+  - image_path: assets/images/contact/Tyler-headshot-full.jpg
+    alt: "-" # complete this once image is fixed.
+    title: "Tyler Fentie"
+    excerpt: |
+        - Calgary, AB
+        - tylerf@neilsquire.ca
+  - image_path: assets/images/contact/Josie-headshot-full.jpg
+    alt: "-" # complete this once image is fixed.
+    title: "Tyler Fentie"
+    excerpt: |
+        - Fredericton, NB
+        - josiev@neilsquire.ca
+
+
 ---
 
-# Header   1
 
-## Subheading 1
-
-This is a simple Markdown homepage with a title, heading, subheading, and a paragraph. You can customize and add more content as needed.
+{% include feature_row %}

@@ -1,5 +1,5 @@
 ---
-title: "Materials"
+title: "Templates"
 layout: splash
 excerpt: |
   Introduction Text Here

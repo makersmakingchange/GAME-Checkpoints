@@ -1,5 +1,5 @@
 ---
-title: "Materials"
+title: "Session Questionnaire"
 layout: splash
 excerpt: |
   Introduction Text Here
