@@ -1,7 +1,7 @@
 ---
 title: "GAME Checkpoint Resources"
 layout: splash
-excerpt: >
+excerpt: |
   The reference guides are broken into 5 main sections along with an appendices document:
 
   - Section 1: Introduction (general version)
