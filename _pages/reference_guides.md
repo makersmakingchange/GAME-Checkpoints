@@ -1,7 +1,16 @@
 ---
 title: "GAME Checkpoint Resources"
 layout: splash
-excerpt: "Blah Blah"
+excerpt: "The reference guides are broken into 5 main sections along with an appendices document.
+  The 5 sections are:
+
+  - Section 1: Introduction (general version)
+  - Section 2: Gaming Gear
+  - Section 3: Gaming Basics
+  - Section 4: Game Training (specific guides/documention on 10 games)
+  - Section 5: Best Practices
+  
+  This is where you can download the reference guides to use."
 header:
   overlay_color: "#333"
 feature_row:
