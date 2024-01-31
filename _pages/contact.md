@@ -15,14 +15,16 @@ header:
 feature_row:
   - image_path: assets/images/contact/Tyler-headshot-full.jpg
     alt: "-" # complete this once image is fixed.
-    title: "Tyler Fentie"
+    title: "Tyler Fentie, EIT"
     excerpt: |
+        - Accessible Gaming Lead
         - Calgary, AB
         - tylerf@neilsquire.ca
   - image_path: assets/images/contact/Josie-headshot-full.jpg
     alt: "-" # complete this once image is fixed.
-    title: "Tyler Fentie"
+    title: "Josie Versloot, EIT"
     excerpt: |
+        - Mechanical Engineer
         - Fredericton, NB
         - josiev@neilsquire.ca
 
