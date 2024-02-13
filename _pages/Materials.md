@@ -3,9 +3,11 @@ title: "Materials"
 layout: splash
 
 excerpt: |
-  This is where you can download the Excel document see the MMC and Commerical gear we recomment for a complete GAME Checkpoint. 
-  
-  You do not need all of this gear to create an accessible gaming space, we can help advise on what gear is best for your center, visit the Contact page.
+  Introduction Text Here
+
+  - asdfasdf
+
+  This is where you can download the Excel document see the materials. Find more information below.
 
 
 header:
