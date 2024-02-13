@@ -1,6 +1,6 @@
 ---
 title: "Reference Guides"
-layout: splash
+layout: single
 excerpt: |
   The reference guides are broken into 5 booklets along with an appendices document:
 
