@@ -4,8 +4,6 @@ main:
     url: https://www.makersmakingchange.com/s/
   - title: "Reference Guides"
     url: /_pages/reference_guides/
-#  - title: "Materials"
-#    url: /_pages/Materials/
   - title: "Session Questionnaire"
     url: /_pages/Session_Questionnaire/
   - title: "Templates"
