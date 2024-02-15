@@ -2,10 +2,12 @@
 title: "Session Questionnaire"
 layout: splash
 excerpt: |
-  These adaptive gaming session questionnaires were created to help the GAME Checkpoint Leads collect the information they need to get the gaming goals, an idea of the AT to try in the first session, and help document the process while working with a gamer. There are three documents you can download that are explained below:
+  These adaptive gaming session questionnaires were created to help the GAME Checkpoint Leads collect the information prior to a gamers first session.
 
+  - The goal is to understand the gamers goals, determine the type of AT to try in the first session, and to help document the process while working with a gamer.
   - The content in the questionnaire covers the gamers goals, physical and cognitive abilties, and environment/support information.
 
+  There are three documents you can download that are explained below:
 header:
   overlay_color: "#333"
   actions:
