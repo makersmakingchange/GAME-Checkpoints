@@ -31,4 +31,4 @@ feature_row3:
 ---
 
 
-{% include feature_row %}
+{% include feature_row id="feature_row3" type="right" %}
