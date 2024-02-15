@@ -20,14 +20,14 @@ feature_row3:
     alt: ""
     title: "Downloading the Spreadhseet"
     excerpt: 'Once you click the link above, you will be brought to a GitHub page. Look to the right side of the screen and you will see a downwards arrow (⇩) to download the spreadsheet'
-  - image_path: assets/images/sheetsmaterials.png
+  - image_path: assets/images/sheets-materials.png
     alt: ""
     title: "What is Included"
     excerpt: |
       In this spreadsheet there are two sheets: "Centre Equipment List" and "Min Equipment List - Xbox".
 
-      - "Centre Equipment List" - This is the full list of gaming gear that was given to many of the centers. You can use this to help inform you of the various gaming gear and AT to create an accessible gaming space. Or if you are a GAME Checkpoint, you can use this to get more info on your devices.
-      - "Min Equipment List - Xbox" - We heard from quite a few centers that currently have an Xbox One or Xbox Series X|S that are looking for a smaller list of gear they would need to start a mini accessible gaming space.
+      - "Centre Equipment List": This is the full list of gaming gear that was given to many of the centers. You can use this to help inform you of the various gaming gear and AT to create an accessible gaming space. Or if you are a GAME Checkpoint, you can use this to get more info on your devices.
+      - "Min Equipment List Xbox": We heard from quite a few centers that currently have an Xbox One or Xbox Series X|S that are looking for a smaller list of gear they would need to start a mini accessible gaming space.
 
   
 ---
