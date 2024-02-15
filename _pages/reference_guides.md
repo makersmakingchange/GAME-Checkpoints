@@ -66,7 +66,7 @@ feature_row:
     rel: "noopener noreferrer"
     btn_label: "Go To Document"
     btn_class: "btn--primary"
-  - image_path: assets/images/reference-guides/best-practices.png
+  - image_path: assets/images/reference-guides/best-practices2.png
     alt: "-"
     title: "Best Practices"
     excerpt: |
