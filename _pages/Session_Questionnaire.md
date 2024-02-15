@@ -1,6 +1,6 @@
 ---
-title: "Reference Guides"
-layout: single
+title: "test yaml"
+layout: splash
 excerpt: "This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
 
 header:
