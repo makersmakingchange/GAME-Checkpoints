@@ -16,7 +16,7 @@ excerpt: |
 header:
   overlay_color: "#333"
 feature_row:
-  - image_path: assets/images/500x300.png
+  - image_path: assets/images/website-test1.png
     alt: "-"
     title: "Introduction"
     excerpt: |
