@@ -54,7 +54,7 @@ feature_row:
     rel: "noopener noreferrer"
     btn_label: "Go To Document"
     btn_class: "btn--primary"
-  - image_path: assets/images/reference-guides/gaming-training.png
+  - image_path: assets/images/reference-guides/game-training.png
     alt: "-"
     title: "Game Training"
     excerpt: |
