@@ -16,7 +16,7 @@ excerpt: |
 header:
   overlay_color: "#333"
 feature_row:
-  - image_path: assets/images/website-test1.png
+  - image_path: assets/images/reference-guides/intro.png
     alt: "-"
     title: "Introduction"
     excerpt: |
@@ -28,7 +28,7 @@ feature_row:
     rel: "noopener noreferrer"
     btn_label: "Go To Document"
     btn_class: "btn--primary"
-  - image_path: assets/images/500x300.png
+  - image_path: assets/images/reference-guides/gaming-gear.png
     alt: "-"
     title: "Gaming Gear"
     excerpt: |
@@ -41,7 +41,8 @@ feature_row:
     rel: "noopener noreferrer"
     btn_label: "Go To Document"
     btn_class: "btn--primary"
-  - image_path: assets/images/500x300.png
+  - image_path: assets/images/reference-guides/gaming-basics.png
+    alt: "-"
     title: "Gaming Basics"
     excerpt: |
       If you are looking for a summary of what gaming can offer and how to use this knowledge in gaming sessions.
@@ -53,7 +54,7 @@ feature_row:
     rel: "noopener noreferrer"
     btn_label: "Go To Document"
     btn_class: "btn--primary"
-  - image_path: assets/images/500x300.png
+  - image_path: assets/images/reference-guides/gaming-training.png
     alt: "-"
     title: "Game Training"
     excerpt: |
@@ -65,7 +66,7 @@ feature_row:
     rel: "noopener noreferrer"
     btn_label: "Go To Document"
     btn_class: "btn--primary"
-  - image_path: assets/images/500x300.png
+  - image_path: assets/images/reference-guides/best-practices.png
     alt: "-"
     title: "Best Practices"
     excerpt: |
@@ -73,6 +74,16 @@ feature_row:
         - Overview of the potential process your organization may use with a gamer visiting your space.
         - Summary of the tips and tricks when creating adaptive gaming setup.
     url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%205%20-%20Best%20Practices%20-%20v1.pdf"
+    target: "_blank"
+    rel: "noopener noreferrer"
+    btn_label: "Go To Document"
+    btn_class: "btn--primary"
+  - image_path: assets/images/reference-guides/appendices.png
+    alt: "-"
+    title: "Appendices"
+    excerpt: |
+      Various selection guides and links to devices.
+    url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Appendicies%20-%20v1.pdf"
     target: "_blank"
     rel: "noopener noreferrer"
     btn_label: "Go To Document"
