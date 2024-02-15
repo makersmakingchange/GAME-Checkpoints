@@ -13,10 +13,10 @@ excerpt: |
 header:
   overlay_color: "#333"
   actions:
-    - label: "Sign up for Makers Making Change"
+    - label: "Download Materials Spreadsheet"
       url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Materials_and_Devices/Adaptive%20Gaming%20Centre%20Equipment%20List.xlsx" 
 feature_row3:
-  - image_path: assets/images/500x300.png
+  - image_path: assets/images/page-materials.png
     alt: ""
     title: "Downloading the Spreadhseet"
     excerpt: 'Once you click the link above, you will be brought to a GitHub page. Look to the right side of the screen and you will see a downwards arrow (⇩) to download the spreadsheet'
@@ -24,14 +24,6 @@ feature_row3:
 ---
 
 
-{% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
-
-{% include video id="K66lpzpTknA" provider="youtube" %}
