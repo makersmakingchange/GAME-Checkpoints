@@ -38,7 +38,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/500x300.png
+  - image_path: assets/images/home/gaming-at.png
     alt: "-" # complete this once image is fixed.
     title: "Low Cost Gaming Assistive Tech"
     excerpt: 'Visit the Makers Making Change library with the filter "Gaming" and request a device or find the files to build one.'
@@ -46,7 +46,7 @@ feature_row2:
     btn_label: "Fing Low Cost Gaming AT"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: assets/images/500x300.png
+  - image_path: assets/images/home/sign-up.png
     alt: ""
     title: "Want to stay up to date on the GAME Checkpoints program and other programs?"
     excerpt: 'Sign up for the Makers Making Change website! Find 200+ open source low cost assitive technologies, resources, and upcoming events.'
