@@ -21,7 +21,7 @@ feature_row3:
     title: "Downloading the Spreadhseet"
     excerpt: 'Once you click the link above, you will be brought to a GitHub page. Look to the right side of the screen and you will see a downwards arrow (⇩) to download the spreadsheet'
   - image_path: assets/images/sheets-materials.png
-    alt: "Screenshot of the bottom of the Excel sheet showing the page titles reading "Centre Equipment List" and "Min Equipment List Xbox""
+    alt: "Screenshot of the bottom of the Excel sheet showing the page titles reading Centre Equipment List and Min Equipment List Xbox"
     title: "What is Included"
     excerpt: |
       In this spreadsheet there are two sheets: "Centre Equipment List" and "Min Equipment List - Xbox".
