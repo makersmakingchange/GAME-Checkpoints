@@ -11,7 +11,7 @@ excerpt: |
 header:
   overlay_color: "#333"
   actions:
-    - label: "Go to Template Github Page"
+    - label: "See all Templates"
       url: "https://github.com/makersmakingchange/GAME-Checkpoints/tree/main/Templates" 
 feature_row3:
   - image_path: assets/images/reference-guides/game-training.png
