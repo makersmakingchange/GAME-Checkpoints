@@ -11,7 +11,7 @@ header:
 excerpt: "This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
 feature_row:
   - image_path: assets/images/home/reference-guides.png
-    alt: "A digital representation of various reference guide booklets stacked on top of eachother. The main title on the booklets is "GAME Checkpoint Training." 
+    alt: "-" #complete this once image is fixed.
     title: "Reference Guides"
     excerpt: "These guides are intended as tools to be used during or while prepping for an adaptive gaming session. Topics cover gaming gear, gaming basics, game guides, and best practices."
     url: "/_pages/reference_guides/"
