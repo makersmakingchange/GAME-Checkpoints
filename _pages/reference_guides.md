@@ -26,7 +26,7 @@ feature_row:
     url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%201%20-%20General%20Intro%20-%20v1.pdf"
     target: "_blank"
     rel: "noopener noreferrer"
-    btn_label: "Go To Document"
+    btn_label: "Go To Booklet 1"
     btn_class: "btn--primary"
   - image_path: assets/images/reference-guides/gaming-gear.png
     alt: "-"
@@ -39,7 +39,7 @@ feature_row:
     url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%202%20-%20Gaming%20Gear%20-%20v1.pdf"
     target: "_blank"
     rel: "noopener noreferrer"
-    btn_label: "Go To Document"
+    btn_label: "Go To Booklet 2"
     btn_class: "btn--primary"
   - image_path: assets/images/reference-guides/gaming-basics.png
     alt: "-"
@@ -52,7 +52,7 @@ feature_row:
     url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%203%20-%20Gaming%20Basics%20-%20v1.pdf" 
     target: "_blank"
     rel: "noopener noreferrer"
-    btn_label: "Go To Document"
+    btn_label: "Go To Booklet 3"
     btn_class: "btn--primary"
   - image_path: assets/images/reference-guides/game-training.png
     alt: "-"
@@ -64,7 +64,7 @@ feature_row:
     url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%204%20-%20Game%20Training%20-%20v1.pdf"
     target: "_blank"
     rel: "noopener noreferrer"
-    btn_label: "Go To Document"
+    btn_label: "Go To Booklet 4"
     btn_class: "btn--primary"
   - image_path: assets/images/reference-guides/best-practices2.png
     alt: "-"
@@ -76,7 +76,7 @@ feature_row:
     url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Booklet%205%20-%20Best%20Practices%20-%20v1.pdf"
     target: "_blank"
     rel: "noopener noreferrer"
-    btn_label: "Go To Document"
+    btn_label: "Go To Booklet 5"
     btn_class: "btn--primary"
   - image_path: assets/images/reference-guides/appendices.png
     alt: "-"
@@ -86,7 +86,7 @@ feature_row:
     url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Appendicies%20-%20v1.pdf"
     target: "_blank"
     rel: "noopener noreferrer"
-    btn_label: "Go To Document"
+    btn_label: "Go To Appendices"
     btn_class: "btn--primary"
 ---
 
