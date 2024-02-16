@@ -1,4 +1,4 @@
-# GAME Checkpoints (Gaming Accessibility Made for Everyone)
+# GAME Checkpoints (Game Accessibility Made for Everyone)
 
 This GitHub hosts all of the Makers Making Change resources that are used to launch GAME Checkpoints and a palce for current GAME Checkpoints to access the resources. There is a website created for ease of viewing/downloading the files at: https://makersmakingchange.github.io/GAME-Checkpoints/
 
