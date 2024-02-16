@@ -5,13 +5,14 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Website-Header-2.png # image is 1280x400px. the height is a bit too tall so I just pushed the text/images down in Canva.
+  alt: "A background image of various gaming symbols. In the top left there is a Makers Making Change and Neil Squire Society Logo. On the right side there is various images of adaptive gaming tech, people with disabilites gaming, and clinicans holding up adaptive gaming gear."
   actions:
     - label: "Download All GAME Checkpoint Resources"
       url: "https://github.com/makersmakingchange/GAME-Checkpoints/archive/refs/heads/main.zip" # direct link to download the Main branch
 excerpt: "This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
 feature_row:
   - image_path: assets/images/home/reference-guides.png
-    alt: "-" #complete this once image is fixed.
+    alt: "A digital representation of various reference guide booklets stacked on top of eachother. The main title on the booklets is "GAME Checkpoint Training." 
     title: "Reference Guides"
     excerpt: "These guides are intended as tools to be used during or while prepping for an adaptive gaming session. Topics cover gaming gear, gaming basics, game guides, and best practices."
     url: "/_pages/reference_guides/"
