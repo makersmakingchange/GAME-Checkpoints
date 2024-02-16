@@ -15,7 +15,7 @@ header:
       url: "https://github.com/makersmakingchange/GAME-Checkpoints/tree/main/Templates" 
 feature_row3:
   - image_path: assets/images/reference-guides/game-training.png
-    alt: ""
+    alt: "A graphic with red and yellow blobs in all 4 corners of the rectangle with a circular photo in the center showing a screenshot from The Last of Us in the settings menue and showing a preview of the game in high contrast mode."
     title: "Documenting Game Accessibility"
     excerpt: 'This document is intended to help you document the key features of a video game such as the controls, accessibility features, and game modes. This will help you have a reference while creating an accessible gaming setup and prevent time repeativly looking up information on the game.'
     url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Templates/Documenting%20Game%20Accessibility.docx"

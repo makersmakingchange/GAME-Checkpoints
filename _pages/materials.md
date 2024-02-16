@@ -16,12 +16,12 @@ header:
     - label: "Download Materials Spreadsheet"
       url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Materials_and_Devices/Adaptive%20Gaming%20Centre%20Equipment%20List.xlsx" 
 feature_row3:
-  - image_path: assets/images/page-materials.png
-    alt: ""
+  - image_path: assets/images/git-download.png
+    alt: "A screenshot of GitHub page download section."
     title: "Downloading the Spreadhseet"
     excerpt: 'Once you click the link above, you will be brought to a GitHub page. Look to the right side of the screen and you will see a downwards arrow (⇩) to download the spreadsheet'
   - image_path: assets/images/sheets-materials.png
-    alt: ""
+    alt: "Screenshot of the bottom of the Excel sheet showing the page titles reading "Centre Equipment List" and "Min Equipment List Xbox""
     title: "What is Included"
     excerpt: |
       In this spreadsheet there are two sheets: "Centre Equipment List" and "Min Equipment List - Xbox".
