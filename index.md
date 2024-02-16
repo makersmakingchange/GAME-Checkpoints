@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/Website-Header-2.png # image is 1280x400px. the height is a bit too tall so I just pushed the text/images down in Canva.
   actions:
     - label: "Download All GAME Checkpoint Resources"
-      url: "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/makersmakingchange/GAME-Checkpoints" # direct link to download the Main branch
+      url: "https://github.com/makersmakingchange/GAME-Checkpoints/archive/refs/heads/main.zip" # direct link to download the Main branch
 excerpt: "This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
 feature_row:
   - image_path: assets/images/home/reference-guides.png
