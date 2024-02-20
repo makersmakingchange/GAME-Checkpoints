@@ -44,7 +44,7 @@ feature_row2:
     title: "Low Cost Gaming Assistive Tech"
     excerpt: 'Visit the Makers Making Change library with the filter "Gaming" and request a device or find the files to build one.'
     url: "https://makersmakingchange.my.site.com/s/category/assistive-devices/0ZGJR00000002Mn4AI?c__results_layout_state=%7B%22page_number%22%3A1%2C%22category_id%22%3A%220ZGJR00000002Mn4AI%22%2C%22refinements%22%3A%5B%7B%22nameOrId%22%3A%22Device_Category__c%22%2C%22type%22%3A%22DistinctValue%22%2C%22attributeType%22%3A%22Custom%22%2C%22values%22%3A%5B%22Gaming%22%5D%7D%5D%7D"
-    btn_label: "Fing Low Cost Gaming AT"
+    btn_label: "Find Low Cost Gaming AT"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: assets/images/home/sign-up.png
