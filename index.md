@@ -11,7 +11,7 @@ header:
 excerpt: |
   Version 1.0 / Released Jan 2023 
 
-  This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers.
+  - This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers.
 
 
 feature_row:
