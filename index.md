@@ -8,7 +8,12 @@ header:
   actions:
     - label: "Download All GAME Checkpoint Resources"
       url: "https://github.com/makersmakingchange/GAME-Checkpoints/archive/refs/heads/main.zip" # direct link to download the Main branch
-excerpt: "This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
+excerpt: |
+  Version 1.0 / Released Jan 2023 
+
+  This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers.
+
+
 feature_row:
   - image_path: assets/images/home/reference-guides.png
     alt: "A digital photo of several reference guide booklets stacked on top of eachother. The main text showing on the booklet is GAME Checkpoint Training" 
