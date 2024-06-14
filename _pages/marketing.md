@@ -11,7 +11,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Download Marketing Materials"
-      url: " " 
+      url: "https://github.com/makersmakingchange/GAME-Checkpoints/tree/main/Marketing" 
 feature_row3:
   - image_path: assets/images/poster.png
     alt: "Screenshot of the bottom of the Excel sheet showing the page titles reading Centre Equipment List and Min Equipment List Xbox"
