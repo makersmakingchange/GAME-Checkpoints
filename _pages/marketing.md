@@ -13,7 +13,7 @@ header:
     - label: "Download Marketing Materials"
       url: " " 
 feature_row3:
-  - image_path: assets/images/sheets-materials.png
+  - image_path: assets/images/poster.png
     alt: "Screenshot of the bottom of the Excel sheet showing the page titles reading Centre Equipment List and Min Equipment List Xbox"
     title: "What is Included"
     excerpt: |
