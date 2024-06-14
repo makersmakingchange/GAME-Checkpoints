@@ -17,7 +17,7 @@ feature_row3:
     alt: "Screenshot of the bottom of the Excel sheet showing the page titles reading Centre Equipment List and Min Equipment List Xbox"
     title: "What is Included"
     excerpt: |
-      In this spreadsheet there are two sheets: "Centre Equipment List" and "Min Equipment List - Xbox".
+      
 
       - Posters: Posters to explain the GAME Checkpoint program, benifits of adaptive gaming, and an overview of why these spaces are important.
 
