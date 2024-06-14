@@ -10,7 +10,7 @@ main:
     url: /_pages/Session_Questionnaire/
   - title: "Templates"
     url: /_pages/Templates/ 
-  - title: "Contact"
-    url: /_pages/contact/
   - title: "Marketing"
     url: /_pages/marketing/
+  - title: "Contact"
+    url: /_pages/contact/
