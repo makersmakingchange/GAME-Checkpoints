@@ -14,7 +14,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Download Materials Spreadsheet"
-      url: "https://github.com/makersmakingchange/GAME-Checkpoints/raw/main/Materials_and_Devices/Adaptive%20Gaming%20Centre%20Equipment%20List.xlsx" 
+      url: "https://raw.githubusercontent.com/makersmakingchange/GAME-Checkpoints/main/Materials_and_Devices/Adaptive%20Gaming%20Centre%20Equipment%20List%20v1.1.xlsx" 
 feature_row3:
   - image_path: assets/images/sheets-materials.png
     alt: "Screenshot of the bottom of the Excel sheet showing the page titles reading Centre Equipment List and Min Equipment List Xbox"
