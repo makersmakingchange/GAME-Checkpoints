@@ -1,0 +1,10 @@
+Jan 7, 2024 - v1.1
+
+ - Updated equipment list under materials and devices:
+	- include PS5 now that it is readily available. Removed phone as that is not relevant with Enabled Play turning to Cephable.
+	- Updated MMC library to include newest joysticks/devices.
+ 	- removed loc line. Not used at many locations and RAM/Magic arm are better options.
+ 	- Changed C clamp link
+ 	- removed trigger extenders for xbox one
+	- Changed brook wingman to be the FGC2 converter that allows XAC to work with PS5
+
