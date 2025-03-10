@@ -27,7 +27,7 @@ feature_row3:
     alt: "A screenshot of the PDF questionnaire with checkable boxes and sections to fill out text."
     title: "Gamer Questionnaire - PDF Fillable"
     excerpt: 'This is the document that is intended to be sent directly to gamers or to be filled out. All of the content from the same questions from the insights document but without the notes for the GAME Checkpoint Lead.'
-    url: "https://github.com/makersmakingchange/GAME-Checkpoints/raw/main/Gaming_Session_Questionnaires/Gamer%20Questionnaire%20-%20Insights.docx"
+    url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Gaming_Session_Questionnaires/Gamer%20Questionnaire%20-%20PDF%20Fillable.pdf"
     target: "_blank"
     rel: "noopener noreferrer"
     btn_label: "Download Gamer Questionnaire"
