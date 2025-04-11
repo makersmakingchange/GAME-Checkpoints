@@ -9,7 +9,7 @@ The GAME Checkpoints project pilot spanned from October 2022 - March 2023. We wo
 The files contained on this page are the resources that were given to the centers. These includes 6 part booklet reference booklets, full list of materials delivered, and questionaires to work with gamers who are looking to test our various assitive technology/gaming options.
  
 
-<img src="Photos/GAME_Checkpoint_Logo.jpg" width="500" alt="Picture of Device-Name.">
+<img src="Photos/GAME_Checkpoint_Logo.jpg" width="500" alt="GAME Checkpoint logo.">
 
 ## More MMC gaming content at:
 - [Makers Making Change "Adaptive Gaming Resources"](<https://makersmakingchange.com/resources/?&_sft_resource_category=adaptive-gaming>)
