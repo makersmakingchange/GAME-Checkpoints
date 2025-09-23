@@ -23,7 +23,7 @@ feature_row:
       Overview of the GAME Checkpoints program and how the reference guides work.
         - Overview of what is possible in adaptive gaming and why it is important.
         - Information on the MMC community around you and how to get support.
-    url: "https://downgit.github.io/#/home?url=https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Gaming%20Gear%20-%20v1.0.pdf"
+    url: "https://github.com/makersmakingchange/GAME-Checkpoints/blob/main/Reference_Guide_Booklets/Generalized%20Intro%20-%20v1.0.pdf"
     target: "_blank"
     rel: "noopener noreferrer"
     btn_label: "Go To Booklet 1"
