@@ -1,6 +1,6 @@
 # GAME Checkpoints (Game Accessibility Made for Everyone)
 
-This GitHub hosts all of the Makers Making Change resources that are used to launch GAME Checkpoints and a palce for current GAME Checkpoints to access the resources. There is a website created for ease of viewing/downloading the files at: https://makersmakingchange.github.io/GAME-Checkpoints/
+This GitHub repository hosts all of the Makers Making Change resources that are used to launch GAME Checkpoints and a place for current GAME Checkpoints to access the resources. There is a website created for ease of viewing/downloading the files at: https://makersmakingchange.github.io/GAME-Checkpoints/
 
 ## SUMMARY 
 The GAME Checkpoints project pilot spanned from October 2022 - March 2023. We worked with clincial, education, and game development organizations to establish adaptive gaming spaces within their organization. This increased the ability for gamers to access assitive technology around gaming and test out technology relevant to them with experts while also educating the Checkpoint leads on accessibility in gaming.
