@@ -1,0 +1,107 @@
+site_name: GAME Resources
+site_description: Gaming Accessibility Made For Everyone | Makers Making Change
+site_url: https://tjfentie.github.io/GAME-Resource-Test/
+use_directory_urls: true 
+
+nav:
+  - Latest Updates: updates.md
+  - Learn About Adaptive Gaming: # Added a colon here and removed the comment
+      - Start Here: index.md
+      - Adaptive Gaming Equipment:
+          - Overview: equipment.md
+          - Alternative Access: alt-access.md
+          - Controller Modifications: control-mods.md
+          - Software: Software.md
+      - Video Game Basics:
+          - How to Pick Games: pick-game.md
+          - Video Game Literacy: video-game-literacy.md
+      - Best Practices: 
+          - Gaming Session Walkthrough: session-walkthrough.md
+          - Tips and Tricks: tips-and-tricks.md
+      - Gamer Profiles: profiles.md
+  
+  - Other Resources: 
+      - GAME Checkpoint Resources: 
+          - Pre Session Questionnaire: questionnaire.md
+          - Equipment Lists: equipment-lists.md
+          - Templates: templates.md
+          - Marketing/Posters: marketing.md
+      - Get Support: support.md
+      - Download/print: print.md
+      - Visit Makers Making Change: MMC.md
+
+
+nav:
+  - Latest Updates: updates.md
+  - Start Here: index.md
+  - Learn About Adaptive Gaming: # Added a colon here and removed the comment
+    - Adaptive Gaming Equipment:
+        - Overview/Platforms: equipment.md
+        - Alternative Access: alt-access.md
+        - Controller Modifications: control-mods.md
+        - Software and In-Game Settings: Software.md
+    - Video Game Basics:
+        - How to Pick Games: pick-game.md
+        - Video Game Literacy: video-game-literacy.md
+    - Best Practices: 
+        - Gaming Session Walkthrough: session-walkthrough.md
+        - Tips and Tricks: tips-and-tricks.md
+    - Gamer Profiles: profiles.md
+  
+  - GAME Checkpoint Resources: 
+      - Pre Session Questionnaire: questionnaire.md
+      - Equipment Lists: equipment-lists.md
+      - Templates: templates.md
+      - Marketing/Posters: marketing.md
+  - Get Support: support.md
+  - Download/print: print.md
+  - Visit Makers Making Change: MMC.md
+
+theme:
+  name: material
+  logo: images/joypad-rider.png
+  custom_dir: overrides
+  font:
+    text: Open Sans
+    Code: Roboto Mono
+  Logo: images
+  icon:
+    admonition:
+      type: material/alert-octagon
+  features:
+    - navigation.footer # this addes previous and next buttons at the bottom
+    - navigation.instant  # Optional: makes page loads feel faster
+  palette:
+    - scheme: default
+      primary: custom # This tells MkDocs we are overriding via CSS
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+  - with-pdf
+  - include-markdown
+
+extra_css:
+  - styles/extra.css
+
+extra_javascript:
+  - extra.js
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences # Highly recommended for better code/block handling
+  - md_in_html
+  - tables
+  - attr_list
+  - toc:
+      toc_depth: 3

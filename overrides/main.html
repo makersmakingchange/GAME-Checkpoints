@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+  
+  <div class="mmc-cta-container">
+    <hr>
+    <img src="{{ base_url }}/images/MMC_NSS_Logo.png" alt="Makers Making Change Logo" class="mmc-footer-logo">
+    <p>Want to learn more about this program or request a device?</p>
+    
+    <p>
+      Copyright © 2026 
+      <a href="https://www.neilsquire.ca/" target="_blank">Neil Squire</a> / 
+      <a href="https://www.makersmakingchange.com/" target="_blank">Makers Making Change</a>. 
+      Content is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY SA 4.0 License</a>. 
+      This website is built with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">MKDocs</a>. 
+      MKDocs is MIT-licensed software and is not covered by the CC BY-SA license applied to this site's content.
+    </p>
+
+    <a href="https://www.makersmakingchange.com/" 
+       class="mmc-footer-button" 
+       target="_blank" 
+       rel="noopener">
+        Visit Makers Making Change
+    </a>
+  </div>
+{% endblock %}
