@@ -6,7 +6,7 @@
 
 <img src="./images/main-banner.png" class="page-banner" alt="decorative banner showing various gamers and adaptive gaming centres">
 
-## What is this Resource?
+## What is this Resource? [TEST]
 Welcome! This resource is a collection of the [Makers Making Change](https://www.makersmakingchange.com/), a program of [Neil Squire](https://www.neilsquire.ca/), adaptive gaming resources. Intended for both or GAME Checkpoint community or anyone in the world interested in learning more about assistive technology in gaming. This resource assumes you are already familiar with the disability of someone else you are working with or you are reading this to learn about the assistive technology out there that you can use.
 
 <div class="qr-link">
