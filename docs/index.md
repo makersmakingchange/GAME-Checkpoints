@@ -1,4 +1,4 @@
-# Welcome to GAME Resources
+# Welcome to Adaptive Gaming
 
 <button onclick="window.print()" class="print-button">
   Printable Version of this Section
