@@ -4,7 +4,7 @@ name: Deploy MKDocs site
 on:
   push:
     branches:
-      - main
+      - website-v1.1
   pull_request:
 
 jobs:
