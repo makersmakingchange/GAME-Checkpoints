@@ -58,8 +58,6 @@ For example, if someones gaming goal is to play Call of Duty and they only like 
 
 Tips and strategies when working with joysticks.
 
----
-
 ### Accessing Two Joysticks from a Single Joystick
 
 Many games require two joysticks, but not all players can physically access both.
