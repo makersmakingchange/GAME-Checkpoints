@@ -182,93 +182,125 @@ Shift Mode allows a single input to perform multiple functions depending on whet
 
 ---
 
-## Using the Xbox Adaptive Controller on the Nintendo Switch
+## Using the Xbox Adaptive Controller on the Nintendo Switch 1 or 2
 
 ### How to Connect
 
-When using adapters like the **Mayflash Magic-NS 2**, the Xbox Adaptive Controller can be used on the Nintendo Switch. See more in the [Alternative Access section](alt-access.md#adapters)
+We typically use the [**Mayflash Magic-NS 2**](https://www.mayflash.com/product/magic_ns_2.html) adapter to get the Xbox Adaptive Controller (XAC) working on the Nintendo Switch. See more in the [Alternative Access section](alt-access.md#adapters).
 
-### How to Remap
+For instructions on connecting the XAC to the Nintendo Switch (it is the same on the Nintendo Switch 2), please seee this video below.
 
-* in Nintendo switch
-* In xbox accessories still using spare PC or Xbox
-
-<div class="center-thumb">
-    <img src="../images/placeholder.png" alt="This is just a placeholder image with no relevant content">
-    <p>This is just a placeholder image</p>
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/g3-x46Uc2kk?si=EH2awS2uhmJjWadw" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
 </div>
 
 
+### How to Remap The controls of the XAC
+
+There are two main ways to remap 
+
+1. In the Nintendo Switch settings
+    * In the settings of the Nintendo Switch, you will find the option to change the button mapping in the [controller settings](https://en-americas-support.nintendo.com/app/answers/detail/a_id/49229/~/how-to-change-the-button-mapping-on-nintendo-switch-controllers)
+2. In the Xbox Accessories App using PC or Xbox
+    * If you create a profile in the Xbox Accessories App it will be saved to the XAC itself. So when you go back and use it with the Nintendo Switch, the up to three saved profiles will be available.
+    * See more about this in the [Xbox Adaptive Controller Section](alt-access.md#xbox-adaptive-controller-xac)
+
 ---
 
-### Pseudo Controller Assist Mode
+### Using 2 controllers as one (controller assist) on Nintendo Switch 1|2
 
-The Nintendo Switch allows two controllers to act as one.
-
-**Use this to:**
+The Nintendo Switch 1|2 do not have a direct "controller assist" or "assist controller" mode where you can use two or more controllers as one. However, there is a method to do this using the Mayflash NS 2 adapter. This would allow you to: 
 
 * Combine:
-  * XAC + standard controller
-  * XAC + Joy-Con
-* Allow support person to assist if needed
+    * XAC + Nintendo Pro Controller
+    * XAC + single Joy-Con
+    * XAC + double Joy-Con
+    * Joy-Con + Nintendo Pro Controller
 
 **Instructions:**
 
-[Insert step-by-step instructions here]
+See the video tutorial below to see how to set this up:
 
-<div class="center-thumb">
-    <img src="../images/placeholder.png" alt="This is just a placeholder image with no relevant content">
-    <p>This is just a placeholder image</p>
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/lsdcLmnxgs4?si=FtmffEiip6aTuhdg" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
 </div>
 
 ---
 
-### Making Sure A is A and B is B
+### Why are the A and B Buttons Swapped?
 
-Button layouts differ between systems, which can cause confusion.
+Button layouts differ between systems, which can cause confusion. For example, when you press A, B, X, or Y buttons on the XAC or they do not directly correlate to the A, B, X, and Y buttons on the Nintendo Switch. This is because, on the standard controller, the buttons are placed in **differnt locations**. See the photo below. 
 
-On Nintendo:
-* A/B are reversed compared to Xbox
+<div class="center-thumb">
+    <img src="../images/xbox-to-nintendo.png" alt="an xbox controller beside a Nintendo Switch controller with color coded arrows showing the differnce in placement. A goes to B, B goes to A, Y goes to X, and X goes to Y.">
+    <p>Comparison of the Placement of Buttons on Xbox vs Nintendo Switch</p>
+</div>
+
+Therefore: 
+
+<div class="centered-table-container" markdown="1">
+<span class="table-caption">Xbox Buttons and What They do When Used on the Nintendo Switch</span>
+<br>
+
+| Xbox | Nintendo Switch |
+| :--- | :--- |
+| A | B | 
+| B | A | 
+| Y | X | 
+| X | Y | 
+
+
+</div>
 
 **Quick fix:**
 
-* Hold **Pause + A for ~3 seconds** (adapter dependent)
-* This swaps inputs to match expected layout
+* Hold **Pause + A for ~3 seconds** (adapter dependent) on the XAC
+* This swaps inputs to match expected layout.
 
 **Tip:**
 
-Always test button mapping before starting gameplay.
+Always test button mapping before starting gameplay. You can do this through the [test input devices](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22451/~/how-to-test-the-controller-buttons-on-nintendo-switch) on the Nintendo Switch.
 
 ---
 
-## Adapters and the Button Layout Problem
+# Adapters and the Button Layout Problem
 
-Adapters allow cross-platform play, but they can introduce confusion in button mapping.
+Adapters can introduce confusion in button mapping. For example, if you are using an Xbox controller like the XAC on the PlayStation 5, there is no Square on the Xbox controller, so which assistive switch port on the XAC would you plug an assistive switch into to use as square on the PS5? This is what this tip will help with.
 
 Different systems use different layouts:
 
 * Xbox: A, B, X, Y  
-* Nintendo: A, B (reversed), X, Y  
-* PlayStation: X, O, Square, Triangle  
+* Nintendo: A, B , X, Y  (but in a different location on the controller)
+* PlayStation: Cross, Circle, Square, Triangle  
 
 **Key Tip:**
 
 Do not rely on button labels—focus on **physical position**.
 
-**Best practices:**
-
 * Think in terms of:
-  * Bottom button
-  * Right button
-  * Left button
-  * Top button
-* Test mappings in-game before starting
-* Create a reference sheet if needed
-* Remap in-game controls whenever possible
+    * Bottom button
+    * Right button
+    * Left button
+    * Top button
+
+See the images below to compare the location of the inputs of the Nintendo and PlayStation controllers against the Xbox controller.
 
 <div class="center-thumb">
-    <img src="../images/placeholder.png" alt="This is just a placeholder image with no relevant content">
-    <p>This is just a placeholder image</p>
+    <img src="../images/xbox-to-nintendo.png" alt="an xbox controller beside a Nintendo Switch controller with color coded arrows showing the differnce in placement. A goes to B, B goes to A, Y goes to X, and X goes to Y.">
+    <p>Comparison of the Placement of Buttons on Xbox vs Nintendo Switch</p>
+</div>
+
+<div class="center-thumb">
+    <img src="../images/xbox-to-playstation.png" alt="an xbox controller beside a playstaition controller with color coded arrows showing the differnce in placement. A goes to cross, B goes to circle, Y goes to triangle, and X goes to square.">
+    <p>Comparison of the Placement of Buttons on Xbox vs PlayStation</p>
 </div>
 
 ---
