@@ -137,7 +137,7 @@ Here are some other fantastic stories from different organizations and creators.
     </a>
 
     <a href="https://gameaccess.info/joshs-adapted-gaming-controller-case-study/"
-       class="profile-card one-handed alt-access switch1">
+       class="profile-card one-handed alt-access xbox-one">
         <div class="card-image" style="background-image: url('https://gameaccess.info/wp-content/uploads/2021/08/Josh-2.jpg');"></div>
         <div class="card-content">
             <h3>Josh’s Adapted Gaming Setup</h3>
@@ -148,7 +148,7 @@ Here are some other fantastic stories from different organizations and creators.
     </a>
 
     <a href="https://gameaccess.info/maxs-customised-controller-set-up-case-study/"
-       class="profile-card alt-access xbox-one">
+       class="profile-card alt-access switch1">
         <div class="card-image" style="background-image: url('https://gameaccess.info/wp-content/uploads/2024/07/IMG_1225-768x431.jpg');"></div>
         <div class="card-content">
             <h3>Max’s Adapted Gaming Setup</h3>
@@ -159,11 +159,11 @@ Here are some other fantastic stories from different organizations and creators.
     </a>
 
     <a href="https://gameaccess.info/miros-customised-controller-set-up-case-study/"
-      class="profile-card alt-access controller-mod">
+      class="profile-card alt-access controller-mod ps5">
         <div class="card-image" style="background-image: url('https://gameaccess.info/wp-content/uploads/2025/03/Miro-centred-768x748.jpg');"></div>
         <div class="card-content">
             <h3>Miro’s Adapted Gaming Setup</h3>
-            <p><strong>Type of Access:</strong> Switch + Joystick + controller-mod</p>
+            <p><strong>Type of Access:</strong> Switch + Joystick + Controller Mod</p>
             <p><strong>System:</strong> PlayStation 5</p>
             <span class="card-link">View Full Setup →</span>
         </div>
