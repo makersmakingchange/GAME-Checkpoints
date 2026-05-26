@@ -6,7 +6,7 @@ Any pamphlets, infographics, posters, etc will be available for download on this
 
 <div class="profile-grid">
     <div class="profile-card">
-      <div class="card-image" style="background-image: url('https://makersmakingchange.github.io/GAME-Checkpoints/assets/images/poster.png');"></div>
+      <div class="card-image" style="background-image: url('../images/poster.png');"></div>
         <div class="card-content">
             <h3>GAME Checkpoint Posters</h3>
             <p>Series of posters that go over the importance of adaptive gaming and typical process at a Checkpoint.</p>

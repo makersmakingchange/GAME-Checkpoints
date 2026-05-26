@@ -6,7 +6,7 @@ When we launch a [GAME Checkpoint](https://www.makersmakingchange.com/game-check
 
 <div class="profile-grid">
     <div class="profile-card">
-      <div class="card-image" style="background-image: url('https://makersmakingchange.github.io/GAME-Checkpoints/assets/images/sheets-materials.png');"></div>
+      <div class="card-image" style="background-image: url('../images/equipment-list.png');"></div>
         <div class="card-content">
             <h3>Gaming Equipment List</h3>
             <p>Initial starting point of equipment that goes to a GAME Checkpoint.</p>

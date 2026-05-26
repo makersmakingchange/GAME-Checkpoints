@@ -8,7 +8,7 @@ As we continue to make resources, we want to share the templated versions of the
 
 <div class="profile-grid">
     <div class="profile-card">
-      <div class="card-image" style="background-image: url('https://makersmakingchange.github.io/GAME-Checkpoints/assets/images/reference-guides/game-training.png');"></div>
+      <div class="card-image" style="background-image: url('../images/template-doc.png');"></div>
         <div class="card-content">
             <h3>Documenting Game Accessibility</h3>
             <p>This document is intended to help you document the key features of a video game such as the controls, accessibility features, and game modes. This will help you have a reference while creating an accessible gaming setup and prevent time repeativly looking up information on the game.</p>
