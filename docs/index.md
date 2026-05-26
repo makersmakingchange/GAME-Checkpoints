@@ -83,10 +83,6 @@ Outside of the detailed resources above, we have a few additional tools for our 
     </div>
 </div>
 
-<div class="center-thumb">
-    <img src="./images/placeholder.png" alt="This is just a placeholder image with no relevant content">
-    <p>put a graphical representation of the breakdown of content</p>
-</div>
 
 ## Why Adaptive Gaming Matters
 
