@@ -307,7 +307,7 @@ See the images below to compare the location of the inputs of the Nintendo and P
 <span class="table-caption">Xbox Buttons and What They do When Used on the Nintendo Switch and PlayStation</span>
 <br>
 
-| Xbox | Nintendo Switch |
+| Xbox | Nintendo Switch | PlayStation |
 | :--- | :--- | :--- |
 | A | B | Cross |
 | B | A | Circle |
