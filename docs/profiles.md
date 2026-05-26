@@ -137,12 +137,45 @@ Here are some other fantastic stories from different organizations and creators.
     </a>
 
     <a href="https://gameaccess.info/joshs-adapted-gaming-controller-case-study/"
-       class="profile-card one-handed alt-access xbox-one">
-        <div class="card-image" style="background-image: url('https://gameaccess.info/wp-content/uploads/2021/10/josh-setup.jpg');"></div>
+       class="profile-card one-handed alt-access switch1">
+        <div class="card-image" style="background-image: url('https://gameaccess.info/wp-content/uploads/2021/08/Josh-2.jpg');"></div>
         <div class="card-content">
             <h3>Josh’s Adapted Gaming Setup</h3>
             <p><strong>Type of Access:</strong> One-Hand + Switch + Joystick</p>
             <p><strong>System:</strong> Xbox</p>
+            <span class="card-link">View Full Setup →</span>
+        </div>
+    </a>
+
+    <a href="https://gameaccess.info/maxs-customised-controller-set-up-case-study/"
+       class="profile-card alt-access xbox-one">
+        <div class="card-image" style="background-image: url('https://gameaccess.info/wp-content/uploads/2024/07/IMG_1225-768x431.jpg');"></div>
+        <div class="card-content">
+            <h3>Max’s Adapted Gaming Setup</h3>
+            <p><strong>Type of Access:</strong> Switch + Joystick</p>
+            <p><strong>System:</strong> Nintendo Switch</p>
+            <span class="card-link">View Full Setup →</span>
+        </div>
+    </a>
+
+    <a href="https://gameaccess.info/miros-customised-controller-set-up-case-study/"
+      class="profile-card alt-access controller-mod">
+        <div class="card-image" style="background-image: url('https://gameaccess.info/wp-content/uploads/2025/03/Miro-centred-768x748.jpg');"></div>
+        <div class="card-content">
+            <h3>Miro’s Adapted Gaming Setup</h3>
+            <p><strong>Type of Access:</strong> Switch + Joystick + controller-mod</p>
+            <p><strong>System:</strong> PlayStation 5</p>
+            <span class="card-link">View Full Setup →</span>
+        </div>
+    </a>
+
+    <a href="https://gameaccess.info/samuels-adapted-gaming-controller-case-study/"
+      class="profile-card one-handed alt-access">
+        <div class="card-image" style="background-image: url('https://gameaccess.info/wp-content/uploads/2020/09/samuellighter2.jpg');"></div>
+        <div class="card-content">
+            <h3>Samuel’s Adapted Gaming Setup</h3>
+            <p><strong>Type of Access:</strong> One-Hand + Switch + Joystick</p>
+            <p><strong>System:</strong> PS4</p>
             <span class="card-link">View Full Setup →</span>
         </div>
     </a>
