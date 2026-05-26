@@ -131,7 +131,7 @@ Here are some other fantastic stories from different organizations and creators.
         <div class="card-content">
             <h3>David’s Adapted Gaming Controller | Case Study</h3>
             <p><strong>Type of Access:</strong> Switch and Joystick</p>
-            <p><strong>System:</strong> Xbox</p>
+            <p><strong>System:</strong> Xbox One</p>
             <span class="card-link">View Full Setup →</span>
         </div>
     </a>
@@ -142,7 +142,7 @@ Here are some other fantastic stories from different organizations and creators.
         <div class="card-content">
             <h3>Josh’s Adapted Gaming Setup</h3>
             <p><strong>Type of Access:</strong> One-Hand + Switch + Joystick</p>
-            <p><strong>System:</strong> Xbox</p>
+            <p><strong>System:</strong> Xbox One</p>
             <span class="card-link">View Full Setup →</span>
         </div>
     </a>
@@ -164,7 +164,7 @@ Here are some other fantastic stories from different organizations and creators.
         <div class="card-content">
             <h3>Miro’s Adapted Gaming Setup</h3>
             <p><strong>Type of Access:</strong> Switch + Joystick + Controller Mod</p>
-            <p><strong>System:</strong> PlayStation 5</p>
+            <p><strong>System:</strong> PS5</p>
             <span class="card-link">View Full Setup →</span>
         </div>
     </a>
