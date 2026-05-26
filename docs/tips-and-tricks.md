@@ -235,7 +235,7 @@ See the video tutorial below to see how to set this up:
 
 ---
 
-### Why are the A and B Buttons Swapped?
+### Why are the Buttons Swapped?
 
 Button layouts differ between systems, which can cause confusion. For example, when you press A, B, X, or Y buttons on the XAC or they do not directly correlate to the A, B, X, and Y buttons on the Nintendo Switch. This is because, on the standard controller, the buttons are placed in **differnt locations**. See the photo below. 
 
@@ -262,7 +262,7 @@ Therefore:
 
 **Quick fix:**
 
-* Hold **Pause + A for ~3 seconds** (adapter dependent) on the XAC
+* Hold **Pause (menu button) + A for ~3 seconds** (adapter dependent) on the XAC
 * This swaps inputs to match expected layout.
 
 **Tip:**
