@@ -271,7 +271,7 @@ Always test button mapping before starting gameplay. You can do this through the
 
 ---
 
-# Adapters and the Button Layout Problem
+## Adapters and the Button Layout Problem
 
 Adapters can introduce confusion in button mapping. For example, if you are using an Xbox controller like the XAC on the PlayStation 5, there is no Square on the Xbox controller, so which assistive switch port on the XAC would you plug an assistive switch into to use as square on the PS5? This is what this tip will help with.
 
@@ -318,7 +318,7 @@ See the images below to compare the location of the inputs of the Nintendo and P
 </div>
 
 ---
-# One Handed Gaming
+## One Handed Gaming
 
 
 
