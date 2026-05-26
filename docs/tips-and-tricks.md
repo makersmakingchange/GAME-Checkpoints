@@ -240,7 +240,7 @@ See the video tutorial below to see how to set this up:
 Button layouts differ between systems, which can cause confusion. For example, when you press A, B, X, or Y buttons on the XAC or they do not directly correlate to the A, B, X, and Y buttons on the Nintendo Switch. This is because, on the standard controller, the buttons are placed in **differnt locations**. See the photo below. 
 
 <div class="center-thumb">
-    <img src="../images/xbox-to-Nintendo.png" alt="an xbox controller beside a Nintendo Switch controller with color coded arrows showing the differnce in placement. A goes to B, B goes to A, Y goes to X, and X goes to Y.">
+    <img src="../images/Xbox-to-Nintendo.png" alt="an xbox controller beside a Nintendo Switch controller with color coded arrows showing the differnce in placement. A goes to B, B goes to A, Y goes to X, and X goes to Y.">
     <p>Comparison of the Placement of Buttons on Xbox vs Nintendo Switch</p>
 </div>
 
@@ -294,7 +294,7 @@ Do not rely on button labels—focus on **physical position**.
 See the images below to compare the location of the inputs of the Nintendo and PlayStation controllers against the Xbox controller.
 
 <div class="center-thumb">
-    <img src="../images/xbox-to-Nintendo.png" alt="an xbox controller beside a Nintendo Switch controller with color coded arrows showing the differnce in placement. A goes to B, B goes to A, Y goes to X, and X goes to Y.">
+    <img src="../images/Xbox-to-Nintendo.png" alt="an xbox controller beside a Nintendo Switch controller with color coded arrows showing the differnce in placement. A goes to B, B goes to A, Y goes to X, and X goes to Y.">
     <p>Comparison of the Placement of Buttons on Xbox vs Nintendo Switch</p>
 </div>
 
