@@ -303,7 +303,22 @@ See the images below to compare the location of the inputs of the Nintendo and P
     <p>Comparison of the Placement of Buttons on Xbox vs PlayStation</p>
 </div>
 
+<div class="centered-table-container" markdown="1">
+<span class="table-caption">Xbox Buttons and What They do When Used on the Nintendo Switch and PlayStation</span>
+<br>
+
+| Xbox | Nintendo Switch |
+| :--- | :--- | :--- |
+| A | B | Cross |
+| B | A | Circle |
+| Y | X | Triangle |
+| X | Y | Square |
+
+
+</div>
+
 ---
+# One Handed Gaming
 
 
 
