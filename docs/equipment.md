@@ -77,6 +77,26 @@ We recommend starting with the equipment already available to you. Using what yo
 
 </div>
 
+<div class="qr-link">
+  <img src="../images/qr/xbox-a11y-page.png" >
+  <p>Link: Xbox Accessibility Page</p>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/ps-a11y-page.png" >
+  <p>Link: PlayStation Accessibility Page</p>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/steam-a11y-page.png" >
+  <p>Link: Steam Accessibility Page</p>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/nintendo-a11y-page.png">
+  <p>Link: Nintendo Switch 2 Accessibility Page</p>
+</div>
+
 <div class="centered-table-container" markdown="1">
 <span class="table-caption">Comparison of Past Generation Platform Accessibility Features</span>
 <br>

@@ -42,6 +42,21 @@ There are three primary adaptive controllers out there with various approaches t
     <p>Spectrum of Hub Based and Direct-Use Based Adaptive Controllers</p>
 </div>
 
+<div class="qr-link">
+  <img src="../images/qr/xac.png" >
+  <p>Link: Xbox Adaptive Controller (XAC)</p>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/sac.png" >
+  <p>Link: Sony Access Controller (SAC)</p>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/hori.png" >
+  <p>Link: Hori Flex Controller</p>
+</div>
+
 
 **See each section below for more specific information on the adaptive controllers.**
 
@@ -64,7 +79,7 @@ Xbox has a fantastic series of videos and online resources explaining every feat
 
 <div class="qr">
   <img src="../images/qr/xac-resources.png" alt="QR Code for link">
-  <p>Scan to go to the XAC web resources created by Xbox</p>
+  <p>Link: Scan to go to the XAC web resources created by Xbox</p>
 </div>
 
 Check out the first video in Xbox's resource series here:
@@ -108,10 +123,30 @@ SpecialEffect also has a fantastic walkthrough of setting up an XAC on an Xbox C
 | **Controller Assist (previously co-pilot)** | • This allows two controllers to act as one. Either two XAC's, standard controllers, or a standard controller and an XAC working together. | • One player does some of the inputs with the standard controller while the other uses the custom setup with the XAC to use those inputs. | Found in: [Video: XAC Guide - Getting Started](https://youtu.be/zd4VddU1wTQ?si=pKEhQ30Cf0V35zft&t=295) |
 | **Button Toggle** | • You can assign any button input to stay activated with a single press. Then press again to turn off. Think about a light switch. | • For users that do not want to hold a button down to keep it activated. Aiming in first person shooter games is a great example. Press once to aim, press again to put the weapon down. | Found in: [Video: Gaming Readapted](https://youtu.be/peQryhh6aOw?si=3KyE7LBvb4FEY1G-&t=160) |
 | **Shift Mode** | • Shift allows you to assign two different functions to a single joystick or button.| • You must choose an input (button or joystick) to make your shift button<br> • The Shift key also allows you to assign two different functions to a single button. You can remap a button to be the A button A by default, but when holding the Shift key, your A button now functions as the B button when you press it.  | [Video: XAC Guide - Advanced functionalities](https://youtu.be/VuomjNhHYew?si=iLxLnji9b8kusAJx&t=41) |
-| **Joystick Axis Swap** | • When remapping, if you select one of the joysticks it will allow you to swap either or both the X and Y axis. | • This allows the gamer to play a game that requires 2 joysticks with one.<br> • For example, if they were using a left joystick and swapped the X axis with the right joystick, they could move forward and back in a 3rd person game and use the left and right to look around and move in all directions. | n/a - No resource yet |
+| **Joystick Axis Swap** | • When remapping, if you select one of the joysticks it will allow you to swap either or both the X and Y axis. | • This allows the gamer to play a game that requires 2 joysticks with one.<br> • For example, if they were using a left joystick and swapped the X axis with the right joystick, they could move forward and back in a 3rd person game and use the left and right to look around and move in all directions. | [See the Tips and Tricks Section](tips-and-tricks.md#accessing-two-joysticks-from-a-single-joystick) |
 | **Joystick Sensitivty Curves** | • Adjusting the sensitivity of the joystick plugged into the XAC. | • For example, players who have limited strength or mobility can choose a sensitivity curve option that provides an experience where less physical movement of the joystick is needed to achieve the same amount of in-game character or camera movement. | [Video: XAC Guide - Advanced functionalities](https://youtu.be/VuomjNhHYew?si=NKKxagPeL2qmLz2Q&t=243) |
 | **Mounting** | • 1/4-20 screw designed for AMPS compatible mounts. °-20 screw designed for tripod mounts. | • Placeing the controller in a more optimal position for the player | N/A |
 
+</div>
+
+<div class="qr-link">
+  <img src="./images/qr/video-xac-guide.png" >
+  <p>Link: Video - XAC Guide - Getting Started</p>
+</div>
+
+<div class="qr-link">
+  <img src="./images/qr/video-xac-app-guide.png" >
+  <p>Link: XAC Guide - Customization with the Xbox Accessories App</p>
+</div>
+
+<div class="qr-link">
+  <img src="./images/qr/readapted-toggle.png" >
+  <p>Link: Gaming Readapted - Button Toggle</p>
+</div>
+
+<div class="qr-link">
+  <img src="./images/qr/xac-advanced.png" >
+  <p>Link: XAC Guide - Advanced functionalities</p>
 </div>
 
 ### Sony Access Controller (SAC)
