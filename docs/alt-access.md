@@ -322,6 +322,20 @@ There are also a few other adaptive controllers out there. These typically only 
 
 </div>
 
+<div class="qr">
+    <img src="../images/qr/forest-hub.png" alt="QR Code for link">
+    <p>Link: Forest Hub</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/quester.png" alt="QR Code for link">
+    <p>Link: Quester</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/hid-remapper.png" alt="QR Code for link">
+    <p>Link: Quester</p>
+</div>
 ---
 
 ## Specialized Controllers
@@ -344,6 +358,11 @@ The Proteus is a modular, "snap-and-play" controller system. It uses magnetic cu
 <div class="center-thumb">
     <img src="../images/byowave2.png" alt="two of the blocks just outside of the 3D printed shell with an arrow showing them going inside.">
     <p>Byowave Proteus Builder</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/byowave.png" alt="QR Code for link">
+    <p>Link: Byowave Proteus</p>
 </div>
 
 <div class="centered-table-container" markdown="1">
@@ -374,6 +393,11 @@ The Nhuad Controller is designed to place every function of a standard controlle
     <p>Nhuad Controller Rear View</p>
 </div>
 
+<div class="qr">
+    <img src="../images/qr/nhuad.png" alt="QR Code for link">
+    <p>Link: Nhuad Controller</p>
+</div>
+
 <div class="centered-table-container" markdown="1">
 
 | Controller | Key Features |
@@ -396,6 +420,11 @@ Azeron devices are intended for one handed gaming. They have a variety of produc
 <div class="center-thumb">
     <img src="../images/azeron1.png" alt="product photos of the cyborg, keyzen, and cyro">
     <p>Azeron Cyborg 2 (left), Azeron Keyzen, Azeron (middle), Cyro (right)</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/azeron.png" alt="QR Code for link">
+    <p>Link: Azeron Controller</p>
 </div>
 
 <div class="centered-table-container" markdown="1">
@@ -436,6 +465,11 @@ Xbox then collaborated with 8BitDo to make the Lite SE 2.4G. THis features compa
 <div class="center-thumb">
     <img src="../images/8bitdo2g.png" alt="Top-down view of the 8BitDo Lite SE 2g showing the face-mounted triggers and joysticks.">
     <p>8BitDo Lite SE 2.4G: Top Layout</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/8bitdo.png" alt="QR Code for link">
+    <p>Link: 8bitdo</p>
 </div>
 
 <div class="centered-table-container" markdown="1">
@@ -500,6 +534,26 @@ These options have been released under an open source license. This means anyone
 
 </div>
 
+<div class="qr">
+    <img src="../images/qr/mmc-lib.png" alt="QR Code for link">
+    <p>Link: Makers Making Change Assistive Devices</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/ablegamers-printables.png" alt="QR Code for link">
+    <p>Link: AbleGamers Printables Page</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/printables.png" alt="QR Code for link">
+    <p>Link: Printables</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/makerworld.png" alt="QR Code for link">
+    <p>Link: Makerworld</p>
+</div>
+
 #### Commercial Options
 
 <div class="centered-table-container" markdown="1">
@@ -516,6 +570,41 @@ These options have been released under an open source license. This means anyone
 | **Canadian Assistive Technologies** | • Canadian vendor for assistive tech. | [Link](https://canasstech.com/) |
 | **Bridges Canada** | • Canadian vendor for assistive tech. | [Link](https://www.bridges-canada.com/) |
 
+</div>
+
+<div class="qr">
+    <img src="../images/qr/logitech-kit.png" alt="QR Code for link">
+    <p>Link: Logitech Adaptive Gaming Kit</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/oneswitch.png" alt="QR Code for link">
+    <p>Link: OneSwitch</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/seven-mile.png" alt="QR Code for link">
+    <p>Link: Seven Mile Mountain</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/pretorian.png" alt="QR Code for link">
+    <p>Link: Pretorian</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/hitclic.png" alt="QR Code for link">
+    <p>Link: Hitclic</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/canada-at.png" alt="QR Code for link">
+    <p>Link: Canadian Assistive Tech</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/bridges.png" alt="QR Code for link">
+    <p>Link: Bridges</p>
 </div>
 
 ### Assistive Joysticks
@@ -566,6 +655,26 @@ These options have been released under an open source license. This means anyone
 
 </div>
 
+<div class="qr">
+    <img src="../images/qr/mmc-lib.png" alt="QR Code for link">
+    <p>Link: Makers Making Change Assistive Devices</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/ablegamers-printables.png" alt="QR Code for link">
+    <p>Link: AbleGamers Printables Page</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/printables.png" alt="QR Code for link">
+    <p>Link: Printables</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/makerworld.png" alt="QR Code for link">
+    <p>Link: Makerworld</p>
+</div>
+
 ### Mouth Joysticks
 These are joysticks that are intended to be used with someones mouth or face. Most of the time, they include a sip and puff feature where people can breath in and out into the device to have inputs into the game.
 
@@ -592,6 +701,26 @@ There are two prominent options for mouth joysticks when it comes to gaming:
 
 </div>
 
+<div class="qr">
+    <img src="../images/qr/lipsync.png" alt="QR Code for link">
+    <p>Link: LipSync</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/lipsync-vid.png" alt="QR Code for link">
+    <p>Video: LipSync</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/quadstick.png" alt="QR Code for link">
+    <p>Link: Quadstick</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/quadstick-vid.png" alt="QR Code for link">
+    <p>Video: Quadstick</p>
+</div>
+
 #### Commercial Options
 
 <div class="centered-table-container" markdown="1">
@@ -611,6 +740,46 @@ There are two prominent options for mouth joysticks when it comes to gaming:
 | **Bridges Canada** | • Canadian vendor for assistive tech. They sell the Pretorian joysticks here too. | [Link](https://www.bridges-canada.com/) |
 
 
+</div>
+
+<div class="qr">
+    <img src="../images/qr/xaj.png" alt="QR Code for link">
+    <p>Link: Xbox Adaptive Joystick</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/grier.png" alt="QR Code for link">
+    <p>Link: Designed by Grier</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/oneswitch.png" alt="QR Code for link">
+    <p>Link: OneSwitch</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/seven-mile.png" alt="QR Code for link">
+    <p>Link: Seven Mile Mountain</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/pretorian.png" alt="QR Code for link">
+    <p>Link: Pretorian</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/hitclic.png" alt="QR Code for link">
+    <p>Link: Hitclic</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/canada-at.png" alt="QR Code for link">
+    <p>Link: Canadian Assistive Tech</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/bridges.png" alt="QR Code for link">
+    <p>Link: Bridges</p>
 </div>
 
 ---
@@ -633,6 +802,11 @@ Check out this video from Adaptive Hacker Khan using a Tobii Eye Tracker as a ga
     </iframe>
 </div>
 
+<div class="qr">
+    <img src="../images/qr/eye-track.png" alt="QR Code for link">
+    <p>Video: Eye Tracking Tutorial</p>
+</div>
+
 
 <div class="centered-table-container" markdown="1">
 <span class="table-caption">Eye Tracking Resources</span>
@@ -644,6 +818,26 @@ Check out this video from Adaptive Hacker Khan using a Tobii Eye Tracker as a ga
 | **PC / Computer** | **SpecialEffect Eye Gaze Games:** A collection of browser-based and downloadable games designed specifically to be played entirely via eye tracking. | [Eye Gaze Games](https://www.eyegazegames.com/) |
 | **Consoles** | **Hori Flex (Nintendo Switch):** The Hori Flex can be configured to accept eye-tracking inputs through specific PC-bridge setups. Refer to SpecialEffect resources for detailed wiring diagrams and "Eye Gaze to Switch" conversion methods. | [SpecialEffect Hori Flex Guide](https://gameaccess.info/hori-flex-overview-video/) |
 
+</div>
+
+<div class="qr">
+    <img src="../images/qr/tobii.png" alt="QR Code for link">
+    <p>Link: Tobii Eye Tracker</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/tobii-tut.png" alt="QR Code for link">
+    <p>Link: Tobii Eye Tracker Tutorial</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/eyegazegames.png" alt="QR Code for link">
+    <p>Link: Eye Gaze Games</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/hori-eye.png" alt="QR Code for link">
+    <p>Link: Hori Flex Eye Gaze Tutorial</p>
 </div>
 
 ---
@@ -662,6 +856,11 @@ Check out this video from Cephable on using their software with Call of Duty: Bl
     </iframe>
 </div>
 
+<div class="qr">
+    <img src="../images/qr/ceph-tut.png" alt="QR Code for link">
+    <p>Video: Cephable Tutorial</p>
+</div>
+
 
 <div class="centered-table-container" markdown="1">
 <span class="table-caption">Voice and Gesture Control Resources</span>
@@ -673,6 +872,16 @@ Check out this video from Cephable on using their software with Call of Duty: Bl
 | **Playability** | **Face & Voice Control:** Uses a standard webcam to map facial expressions and voice commands to play PC games and even PlayStation, Xbox & Switch via Remote Play or adapters. This allows a player to "smile" to jump or use voice cues to trigger inputs. | [Playability Adaptive Software](https://playability.gg/) |
 
 
+</div>
+
+<div class="qr">
+    <img src="../images/qr/cephable.png" alt="QR Code for link">
+    <p>Link: Cephable</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/playability.png" alt="QR Code for link">
+    <p>Link: Playability</p>
 </div>
 
 --- 
@@ -737,7 +946,31 @@ Below are the main resources that our team uses to find an adapter that allows o
 | **Cronus Zen** | This adapter takes a different approach by using a "validating controller". It also has software to program things like macros. Also a good option to explore. | [Cronus Zen Website](https://www.cronusmax.com/) |
 
 
+</div>
 
+<div class="qr">
+    <img src="../images/qr/cont-connect-tool.png" alt="QR Code for link">
+    <p>Link: Controller Connect Tool</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/brook.png" alt="QR Code for link">
+    <p>Link: Brook Website</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/fgc2.png" alt="QR Code for link">
+    <p>Link: Brook FGC2</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/mayflash.png" alt="QR Code for link">
+    <p>Link: Mayflash NS2</p>
+</div>
+
+<div class="qr">
+    <img src="../images/qr/cronus.png" alt="QR Code for link">
+    <p>Link: Cronus Zen</p>
 </div>
 
 ???+ warning "Adapters Go Out of Date"
