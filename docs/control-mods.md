@@ -25,6 +25,16 @@ Controller modifications involve altering a standard commercial controller to be
 
 </div>
 
+<div class="qr">
+  <img src="../images/qr/mmc-lib.png" alt="QR Code for link">
+  <p>Link: Makers Making Change Library</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/controllerproject.png" alt="QR Code for link">
+  <p>Link: The Controller Project</p>
+</div>
+
 ### One Handed Controllers
 One-handed 3D printed adapters are among the most popular modifications. These mechanical rigs allow a player to access both analog sticks and all shoulder buttons using a single hand, often by resting the controller on a thigh or table to move the secondary stick via tilting. 
 
@@ -32,6 +42,11 @@ Check out a one handed Mod in action:
 
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/d1hht2D5cvE?si=Eyw5QdmzoxlKt_2p" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/mod-action.png" alt="QR Code for link">
+  <p>Video: One Hand Mod in Action</p>
 </div>
 
 Most one handed mods are made by a designer named Akaki. He has open sourced some of his designs but also sells them on his website directly. These cost approximatly $10 to 3D print at a local library or through our Makers Making Change program and $235+ if you buy from Akaki directly. If you want to buy them directly and not build them yourself or work with a volunteer, please view his website. Here is a list of current one handed modifications.
@@ -49,6 +64,46 @@ Most one handed mods are made by a designer named Akaki. He has open sourced som
 | **Nintendo Switch 1** | N/A - Has not open sourced these designs | [Akaki Website](https://akaki.co/collections/products-for-nintendo-switch) |
 | **Nintendo Switch 1**<br>• This is not an Akaki design | [Open Source Files - Left Hand](https://www.makersmakingchange.com/product/lefthanded-grip-controller-modification-for-joycon/01tJR000000690RYAQ)<br>[Open Source Files - Right Hand](https://www.makersmakingchange.com/product/righthanded-grip-controller-modification-for-joycon/01tJR000000690VYAQ) | N/A |
 
+</div>
+
+<div class="qr">
+  <img src="../images/qr/akaki.png" alt="QR Code for link">
+  <p>Link: Akaki Mods</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/xbox-series-mod.png" alt="QR Code for link">
+  <p>Link: Xbox Series Mod</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/xbox-one-mod.png" alt="QR Code for link">
+  <p>Link: Xbox One Mod</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/ps5-mod.png" alt="QR Code for link">
+  <p>Link: DualSense PS5 Mod</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/ps4-mod.png" alt="QR Code for link">
+  <p>Link: DualShock 4 PS4 Mod</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/nintendo-mod1.png" alt="QR Code for link">
+  <p>Link: Nintendo Mod - Akaki</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/nintendo-mod2.png" alt="QR Code for link">
+  <p>Link: Joy-Con Mod Left- Open Source</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/nintendo-mod3.png" alt="QR Code for link">
+  <p>Link: Joy-Con Mod Right - Open Source</p>
 </div>
 
 
@@ -78,6 +133,31 @@ Thumbstick toppers are also a commonly requested controller mod. Xbox has even i
 
 </div>
 
+<div class="qr">
+  <img src="../images/qr/xbox-thumbstick.png" alt="QR Code for link">
+  <p>Link: Xbox Adaptive Thumbsticks</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/thumbsoldiers.png" alt="QR Code for link">
+  <p>Link: Thumb Soldiers</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/activeb1t.png" alt="QR Code for link">
+  <p>Link: Activeb1t</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/ablegamers-thumb.png" alt="QR Code for link">
+  <p>Link: AbleGamers Thumbstick Adapters</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/caleb-thumb.png" alt="QR Code for link">
+  <p>Link: Caleb Thumbstick Adapters</p>
+</div>
+
 ### Modifying Adaptive Controllers
 It isn't just standard controllers that can be modded; adaptive hardware can also be customized. Here are a few modifications as an example:
 
@@ -91,10 +171,31 @@ It isn't just standard controllers that can be modded; adaptive hardware can als
 * **Xbox Adaptive Controller (XAC):** Custom 3D printed knobs (like goals posts or large spheres) can be added to the joysticks used with the Xbox Adaptive Controller to accommodate different hand functions.
     * Designer, [Atom on Printables](https://www.printables.com/model/255246-d-pad-joystick-clip-for-xbox-adaptive-controller) made a joystick that can snap onto the XAC to modify the way a user would interact with the D-Pad.
 
+
+<div class="qr">
+  <img src="../images/qr/sac-3d-guide.png" alt="QR Code for link">
+  <p>Link: SAC 3D printing Guide</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/harakan.png" alt="QR Code for link">
+  <p>Link: Harakan Toppers</p>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/atom.png" alt="QR Code for link">
+  <p>Link: Atom Printables</p>
+</div>
+
 ## Commercial Modifications
 For players who want a professional, "out-of-the-box" solution, several companies specialize in modifying controllers for accessibility. 
 
 * **[Evil Controllers:](https://www.evilcontrollers.com/accessible-gaming)** They are a primary leader in this space, offering one-handed versions of the PS5, Xbox Series X, and Nintendo Switch controllers. These often feature re-routed buttons and analog sticks placed on the back of the controller for easier access.
+
+<div class="qr">
+  <img src="../images/qr/evilcon.png" alt="QR Code for link">
+  <p>Link: Evil Controllers</p>
+</div>
 
 <div class="center-thumb">
     <img src="../images/evil-controllers.png" alt="Two controllers with added buttons on the face and an external thumbstick extending from it with a cable.">
@@ -113,6 +214,11 @@ If a 3D printed part or commercial controller isn't a perfect fit, DIY materials
 
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/8OhBZj-831A?si=sVhWq8Z8h_OP5QI3" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="qr">
+  <img src="../images/qr/mold-tut.png" alt="QR Code for link">
+  <p>Video: Moldable Plastic Tutorial</p>
 </div>
 
 ## Mounting a Controller
