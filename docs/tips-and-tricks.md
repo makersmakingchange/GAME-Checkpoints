@@ -82,6 +82,11 @@ Check out the video detailing the three methods:
     </iframe>
 </div>
 
+<div class="qr-link">
+  <img src="../images/qr/2joy1.png">
+  <p>Video: Convert 2 Joysticks Into 1 Joystick</p>
+</div>
+
 1. **X Axis Switching (XAC)**
     * Using the XAC and Xbox Accessories App, swap the X axis on the left joystick with the right joystick
     * This will allow you to move forwards and backwards while using left and right to control the direction of the character.
@@ -108,6 +113,11 @@ SpecialEffect has created a fantastic resource for this:
         frameborder="0" 
         allowfullscreen>
     </iframe>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/walkforward.png">
+  <p>Video: Special Effect - walk forward</p>
 </div>
 
 ---
@@ -188,6 +198,12 @@ Shift Mode allows a single input to perform multiple functions depending on whet
 
 We typically use the [**Mayflash Magic-NS 2**](https://www.mayflash.com/product/magic_ns_2.html) adapter to get the Xbox Adaptive Controller (XAC) working on the Nintendo Switch. See more in the [Alternative Access section](alt-access.md#adapters).
 
+
+<div class="qr-link">
+  <img src="../images/qr/mayflash.png">
+  <p>Link: Mayflash</p>
+</div>
+
 For instructions on connecting the XAC to the Nintendo Switch (it is the same on the Nintendo Switch 2), please seee this video below.
 
 <div class="video-container">
@@ -196,6 +212,11 @@ For instructions on connecting the XAC to the Nintendo Switch (it is the same on
         frameborder="0" 
         allowfullscreen>
     </iframe>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/xac-switch.png">
+  <p>Video: How to setup XAC on Nintendo Switch</p>
 </div>
 
 
@@ -208,6 +229,11 @@ There are two main ways to remap
 2. In the Xbox Accessories App using PC or Xbox
     * If you create a profile in the Xbox Accessories App it will be saved to the XAC itself. So when you go back and use it with the Nintendo Switch, the up to three saved profiles will be available.
     * See more about this in the [Xbox Adaptive Controller Section](alt-access.md#xbox-adaptive-controller-xac)
+
+<div class="qr-link">
+  <img src="../images/qr/nint-settings.png">
+  <p>Link: Nintendo Controller Settings</p>
+</div>
 
 ---
 
@@ -231,6 +257,11 @@ See the video tutorial below to see how to set this up:
         frameborder="0" 
         allowfullscreen>
     </iframe>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/copilot-switch.png">
+  <p>Video: How to Copilot on Switch</p>
 </div>
 
 ---
@@ -268,6 +299,11 @@ Therefore:
 **Tip:**
 
 Always test button mapping before starting gameplay. You can do this through the [test input devices](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22451/~/how-to-test-the-controller-buttons-on-nintendo-switch) on the Nintendo Switch.
+
+<div class="qr-link">
+  <img src="../images/qr/test-input.png">
+  <p>Link: Test Inputs</p>
+</div>
 
 ---
 
@@ -319,6 +355,94 @@ See the images below to compare the location of the inputs of the Nintendo and P
 
 ---
 ## One Handed Gaming
+There are many ways to create a one-handed gaming setup, and it is one of the most common requests we receive. Because every person's abilities, goals, and gaming preferences are different, there is no single solution that works for everyone.
+
+One-handed gaming can range from a player using one unaffected hand with typical dexterity to someone who has limited movement and uses only a single finger. The best setup depends on factors such as range of motion, strength, endurance, the types of games being played, and the platform being used. It is often helpful to start by identifying which inputs are difficult to access and which inputs are already available. This can make it easier to select the most effective combination of hardware, software, and controller modifications.
+
+Below are some of the most common one-handed gaming solutions we recommend:
+
+
+### Xbox Adaptive Controller (XAC) for One-Handed Play
+
+The XAC is a versatile central hub compatible with Xbox, PC, and mobile platforms. 
+
+**Benefits:**
+
+* **Co-Pilot Mode:** Pair it with a standard controller to allow two devices to function as a single unit.
+* **Expandability:** Features 19 3.5mm jacks for external switches and joysticks.
+* **Cost Efficiency:** While the base unit is ~$115 CAD, using Makers Making Change (MMC) DIY switches can reduce accessory costs by up to 94% compared to commercial alternatives.
+
+**Recommended Add-ons:**
+
+* Pair with a mouth joystick like the **LipSync** or **QuadStick** (which features sip-and-puff and gamepad modes) for comprehensive control.
+
+---
+
+### Azeron Controller
+
+The Azeron is a one-handed keypad and mouse alternative that keeps all necessary inputs within a small reach radius.
+
+**Benefits:**
+
+* Ergonomic keypad layout
+* Significant reduction in hand movement required
+* Highly customizable finger placement
+
+**Recommended Version:**
+
+* The **Azeron Cyro** is the preferred version if the player requires two joysticks combined with keyboard inputs.
+
+**Cost:**
+
+* Typically around $200 USD.
+
+---
+
+### 3D-Printed One-Handed Controller Mods
+
+These are specialized shells that allow standard controllers (Xbox, PlayStation, Nintendo) to be operated with one hand.
+
+**Compatibility:**
+
+* **PC/Mobile:** Works seamlessly if the game supports standard controller input.
+* **Console:** Requires the controller to match the system, or an adapter if using a different brand.
+* **Resource:** Use [Gaming Readapted’s Controller Connect Tool](https://gamingreadapted.com/) to find the correct adapter for your setup.
+
+**Cost:**
+
+* Typically <$10 CAD for parts (plus printing/assembly).
+
+---
+
+### Cephable (Software)
+
+A free, powerful application for PC and mobile that turns natural movements into game inputs.
+
+**Input Methods:**
+
+* Voice commands
+* Facial expressions
+* Head tracking
+* Virtual on-screen buttons
+
+**Benefits:**
+
+* Adds layers of control without the need for additional physical hardware.
+
+---
+
+### Proteus Controller
+
+A premium, fully modular gaming controller designed specifically for accessibility.
+
+**Key Features:**
+
+* Swappable components to match individual physical needs
+* Configurations specifically documented for one-handed users
+
+**Cost:**
+
+* $400–$470 CAD
 
 
 

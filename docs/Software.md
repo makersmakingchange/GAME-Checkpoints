@@ -23,6 +23,11 @@ To find resources on how to pick games with accessibility, visit [How to Pick Ga
 ### Common Settings
 Every game has a different set of accessibility features, and developers may use different names for the same settings or design choice they made to make it accessible to more players. While the **[Accessible Games Initiative](https://accessiblegames.com/accessibility-tags/)** is working to standardize this language, it is important to recognize that settings are designed to address specific barriers across many different needs.
 
+<div class="qr-link">
+  <img src="../images/qr/agi.png">
+  <p>Link: Accessible Games Initiative</p>
+</div>
+
 While many physical or motor settings are common, modern games also include features to support players with **low vision, blindness, colorblindness, hard of hearing or d/Deaf needs, cognitive or emotional barriers, and speech or strength and dexterity limitations.**
 
 Below is a list of common accessibility features categorized by the barriers they help remove:
@@ -54,9 +59,19 @@ Below is a list of common accessibility features categorized by the barriers the
 * **Safe Modes:** Some games include settings to remove "emotional" triggers, such as disabling spiders (Arachnophobia mode) or reducing intense gore and flashing lights.
 
 Here is a great talk from Alex Carey, founder of [PlayAbility Consultancy,](https://www.play-ability.net/) showing examples of features for each of the above described barriers:
+
+<div class="qr-link">
+  <img src="../images/qr/playability-con.png">
+  <p>Link: PlayAbility Consultancy</p>
+</div>
   
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/8UtY8QHDmw0?si=uDYTihPeFDmrjAH5" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/ga-conf-talk.png">
+  <p>Video: Alex Carey GAconf Talk</p>
 </div>
 
 ### Accessibility by Design
@@ -75,6 +90,16 @@ For gamers who are blind or have low vision, screen reading software is essentia
 * **Built-in Platform Readers:** Tools like **Narrator** (Windows), **VoiceOver** (iOS), and the native screen readers on Xbox and PlayStation can read out system menus and, in compatible games, in-game text and UI elements.
 * **OCR Tools:** Some specialized software uses Optical Character Recognition (OCR) to "read" text appearing on the screen in real-time for games that do not natively support screen readers. Example from Ross Minor, [using an OCR on Nintendo games](https://ablenews.com/blind-player-ross-minor-aims-to-make-video-games-accessible-for-all/).
 
+<div class="qr-link">
+  <img src="../images/qr/ocr.png">
+  <p>Link: OCR on Nintendo Games</p>
+</div>
+
 ### Other Notable Software
 * **Voice Control, Eye Tracking, and Gesture Control:** These are all covered in detail in the [Alternative Access Section under "Other Input Methods"](alt-access.md#other-input-methods).
 * **Remapping Suites:** Programs like [**reWASD**](https://www.rewasd.com/) or the settings within **Steam** can provide much deeper remapping capabilities than standard game menus, allowing for "chorded" presses (triggering one action by pressing two buttons simultaneously) and advanced deadzone tuning for joysticks.
+
+<div class="qr-link">
+  <img src="../images/qr/rewasd.png">
+  <p>Link: reWASD</p>
+</div>

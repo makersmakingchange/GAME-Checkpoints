@@ -15,6 +15,12 @@ To see a great breakdown of how these invisible rules affect new players, watch 
     <iframe src="https://www.youtube.com/embed/ax7f3JZJHSw" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div class="qr-link">
+  <img src="../images/qr/lit.png">
+  <p>Video: Video game literacy</p>
+</div>
+
+
 ---
 
 ## Game Modes

@@ -25,6 +25,26 @@ Rather than listing every game, we recommend these databases which are maintaine
 * **[Family Gaming Database](https://www.taminggaming.com/):** A massive database of board and video games. You can select the [specific features in a game you are looking for](https://www.familygamingdatabase.com/en-us/search/show/controls+video+game) and filter or pick from a [list of common features](https://www.familygamingdatabase.com/en-us/video-game-accessibility-data) to find games. This can help a ton when looking for games with specific accessibility features or games that “can be played with one switch”.
     * They also allow you to filter by age, genre, etc. so this can be a great resource if you are specifically filtering for games for children.
 
+<div class="qr-link">
+  <img src="../images/qr/abletoplay.png">
+  <p>Link: AbleToPlay</p>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/cipt.png">
+  <p>Link: CanIPlayThat</p>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/fgd1.png">
+  <p>Link: Family Gaming Database - Filtering tool, specific features</p>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/fgd2.png">
+  <p>Link: Family Gaming Database - list of common features</p>
+</div>
+
 ---
 
 ## General Guidance for Input Levels
@@ -79,6 +99,11 @@ Check out gameplay here:
     <iframe src="https://www.youtube.com/embed/kdH5nrgl7-I" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div class="qr-link">
+  <img src="../images/qr/shadow-of.png">
+  <p>Video: Shadow of the Tomb Raider</p>
+</div>
+
 ### Minecraft (Sandbox)
 Minecraft is a world-building game where you explore and create. To play fully, you do need two joysticks to move and look around, and you will use various buttons to build, mine, and manage your inventory. However, the game is largely taken at your own pace. By playing on "Peaceful" mode, you can remove all enemies, which eliminates the need for fast reaction speeds and allows for a stress-free creative experience.
 
@@ -90,6 +115,11 @@ Minecraft is a world-building game where you explore and create. To play fully, 
 Check out gameplay here:
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/yVe88ZBjYjA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="qr-link">
+  <img src="../images/qr/mine.png">
+  <p>Video: Minecraft</p>
 </div>
 
 ### Dirt 5 (Racing)
@@ -104,3 +134,34 @@ Check out gameplay here:
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/Q8_FaIBDxYw" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<div class="qr-link">
+  <img src="../images/qr/dirt.png">
+  <p>Video: Dirt 5</p>
+</div>
+
+## Games with Simple Inputs
+It is common for folks to be looking for games that use a single joystick with a single assistive switch or just simply less than 3 assistive switches. There are some great resources out there to find games with these inputs described in the [Finding Accessible Games section](#resources-for-finding-accessible-games). However, there are also some websites/resources that are dedicated to making one button, two button, single joystick and button games. Here is our go to sites for this:
+
+<div class="centered-table-container" markdown="1">
+<span class="table-caption">Games with Minimal Assistive Tech Required</span>
+<br>
+
+| Resource | Input Needed | Cost ($CAD) | Description |
+| :--- | :--- | :--- | :--- |
+| [AAC Gameplay](https://aacgameplay.com/) | 1-2 switches, touch, mouse, or keyboard | Free | Collection of simple cause-and-effect and accessible games designed for AAC users and individuals with complex access needs. |
+| [OneSwitch](https://oneswitch.org.uk/art.php?id=28) | Single switch or keyboard key | Free | Directory of switch-accessible games and activities that can be controlled with one input. |
+| [Padlet: Arcade Switch Games](https://padlet.com/loreto5/arcade-switch-games-asbb646i7xsq5cfs) | Single switch or keyboard key | Free | Curated collection of browser-based games suitable for switch users and beginners. |
+| [EasyToPlayGames](https://easytoplaygames.itch.io/) | 1-2 buttons, keyboard, or touch | Free | Simple browser games with minimal controls and immediate visual feedback. |
+| [T-Rex Runner](https://trex-runner.com/) | Single button or switch | Free | Endless runner game where a single input makes the dinosaur jump over obstacles. |
+| [HelpKidzLearn](https://www.helpkidzlearn.com/) | Single switch, touch, mouse, or eye gaze | Subscription | Educational and cause-and-effect games designed for learners with disabilities. |
+| [SpecialBites](https://specialbites.com/) | Single switch, touch, mouse, or eye gaze | Subscription | Cause-and-effect activities and games developed for switch users and emerging communicators. |
+| [Shiny Learning](https://shinylearning.co.uk/) | Single switch, touch, mouse, or eye gaze | Subscription | Interactive learning activities and games with accessible input options. |
+| [Papunet Game Pages](https://papunet.net/gamepages/games/) | Single switch, keyboard, mouse, or touch | Free | Accessible online games and activities designed for users with diverse abilities. |
+| [NARBE House](https://narbehouse.github.io/bennyshub/) | Single switch, keyboard, or mouse | Free | Collection of simple browser-based switch-accessible games and cause-and-effect activities. |
+| [Ginger Tiger](https://gingertiger.net/) | Single switch, keyboard, touch, or eye gaze | Free / Subscription | Accessible games and activities focused on engagement, communication, and skill development. |
+| [Otto Ojala Games](https://ottoojala.itch.io/) | 1-2 buttons, keyboard, or gamepad | Free | Minimal-input browser games with simple interactions and clear visual feedback. |
+
+</div>
+
+Make your own games with simple inputs using [Microsoft MakeCode Arcade](https://www.microsoft.com/en-ca/makecode/teach/).
