@@ -408,6 +408,11 @@ These are specialized shells that allow standard controllers (Xbox, PlayStation,
 * **Console:** Requires the controller to match the system, or an adapter if using a different brand.
 * **Resource:** Use [Gaming Readapted’s Controller Connect Tool](https://gamingreadapted.com/) to find the correct adapter for your setup.
 
+<div class="qr-link">
+  <img src="../images/qr/cont-connect-tool.png">
+  <p>Link: Test Inputs</p>
+</div>
+
 **Cost:**
 
 * Typically <$10 CAD for parts (plus printing/assembly).
