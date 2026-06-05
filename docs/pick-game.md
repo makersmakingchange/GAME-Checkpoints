@@ -24,6 +24,7 @@ Rather than listing every game, we recommend these databases which are maintaine
 * **[CanIPlayThat](https://caniplaythat.com/):** A fantastic resource featuring deep-dive articles and reviews on game accessibility and hardware written by disabled gamers themselves.
 * **[Family Gaming Database](https://www.taminggaming.com/):** A massive database of board and video games. You can select the [specific features in a game you are looking for](https://www.familygamingdatabase.com/en-us/search/show/controls+video+game) and filter or pick from a [list of common features](https://www.familygamingdatabase.com/en-us/video-game-accessibility-data) to find games. This can help a ton when looking for games with specific accessibility features or games that “can be played with one switch”.
     * They also allow you to filter by age, genre, etc. so this can be a great resource if you are specifically filtering for games for children.
+* **[Game Access](https://gameaccess.info/):** Create various articles revolving around how to use adaptive gaming hardware, showcase setups, and they also document accessibility in games. You can filter by "games" and find the articles related to specific game titles that explains its accessibility.
 
 <div class="qr-link">
   <img src="../images/qr/abletoplay.png">
