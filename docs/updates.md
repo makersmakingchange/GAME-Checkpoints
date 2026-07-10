@@ -9,7 +9,7 @@
 
 ## In Progress
 
-A running list of resources we want to create and add 
+A running list of resources we want to create. If you have time to help us work on these, please see the [How to Contribute](contribute.md) section and email us at [info@makersmakingchange.com](info@makersmakingchange.com).
 
  * **Player focused resource** - A static PDF that can be downloaded that give an abreviated version of the equipment/methods to make gaming accessible. Also will include a few example setups from other players and resources on where to find community
  * **Expand Eye Tracking Resources** - Make more detailed resource on eye tracking under alternative access. Include info on using remote play on Xbox and PlayStation with systems on PC.
