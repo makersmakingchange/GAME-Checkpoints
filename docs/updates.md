@@ -14,4 +14,5 @@ A running list of resources we want to create. If you have time to help us work 
  * **Player focused resource** - A static PDF that can be downloaded that give an abreviated version of the equipment/methods to make gaming accessible. Also will include a few example setups from other players and resources on where to find community
  * **Expand Eye Tracking Resources** - Make more detailed resource on eye tracking under alternative access. Include info on using remote play on Xbox and PlayStation with systems on PC.
  * **Expand Joystick/Switch Resources** - Play around with how to communicate the commercial and OpenAt versions of joysticks and switches. 
- * **Augmental MouthPad** - Now available.
+ * **Augmental MouthPad** - Now available. https://www.augmental.tech/ 
+ * **GazeStick** Using Eyegaze for right stick: https://crowking63.github.io/GazeStick/ 
