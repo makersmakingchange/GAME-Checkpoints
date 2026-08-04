@@ -16,3 +16,4 @@ A running list of resources we want to create. If you have time to help us work 
  * **Expand Joystick/Switch Resources** - Play around with how to communicate the commercial and OpenAt versions of joysticks and switches. 
  * **Augmental MouthPad** - Now available. https://www.augmental.tech/ 
  * **GazeStick** Using Eyegaze for right stick: https://crowking63.github.io/GazeStick/ 
+ * **Glydr** - foot controlled controller: https://glydr.gg/
