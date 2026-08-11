@@ -17,3 +17,5 @@ A running list of resources we want to create. If you have time to help us work 
  * **Augmental MouthPad** - Now available. https://www.augmental.tech/ 
  * **GazeStick** Using Eyegaze for right stick: https://crowking63.github.io/GazeStick/ 
  * **Glydr** - foot controlled controller: https://glydr.gg/
+ * **Tell us how you are using these resources** - Add a like and review like page to get feedback and hearing from folks that are using the resources.
+ * **Audio Radar** - Audio Radar turns your game’s directional sound into visual cues around your screen. Footsteps to your left, gunfire behind you, or movement ahead can activate the light bars in the direction the sound is coming from, giving Deaf and hard-of-hearing gamers access to information other players receive through audio.: https://www.youtube.com/watch?v=5iWhZ47dcik&feature=youtu.be
