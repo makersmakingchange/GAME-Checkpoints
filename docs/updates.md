@@ -19,3 +19,5 @@ A running list of resources we want to create. If you have time to help us work 
  * **Glydr** - foot controlled controller: https://glydr.gg/
  * **Tell us how you are using these resources** - Add a like and review like page to get feedback and hearing from folks that are using the resources.
  * **Audio Radar** - Audio Radar turns your game’s directional sound into visual cues around your screen. Footsteps to your left, gunfire behind you, or movement ahead can activate the light bars in the direction the sound is coming from, giving Deaf and hard-of-hearing gamers access to information other players receive through audio.: https://www.youtube.com/watch?v=5iWhZ47dcik&feature=youtu.be
+* **Add amazon list link from MMC of gaming gear:** https://a.co/d/0f9L83Ex
+* **add video on what games we picked and rationale** - Provide a video and go over why we picked the games for checkpoints and discuss scaffolding.
