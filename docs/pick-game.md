@@ -151,11 +151,13 @@ It is common for folks to be looking for games that use a single joystick with a
 | Resource | Input Needed | Cost ($CAD) | Description |
 | :--- | :--- | :--- | :--- |
 | [AAC Gameplay](https://aacgameplay.com/) | 1-2 switches, touch, mouse, or keyboard | Free | Collection of simple cause-and-effect and accessible games designed for AAC users and individuals with complex access needs. |
+| [C1ic.mx](https://c1ic.mx/opciones.html) | 1-2 switches, touch, mouse, or keyboard | Free | Collection of simple cause-and-effect and accessible games designed for AAC users and individuals with complex access needs. Some require timing. |
 | [OneSwitch](https://oneswitch.org.uk/art.php?id=28) | Single switch or keyboard key | Free | Directory of switch-accessible games and activities that can be controlled with one input. |
 | [Padlet: Arcade Switch Games](https://padlet.com/loreto5/arcade-switch-games-asbb646i7xsq5cfs) | Single switch or keyboard key | Free | Curated collection of browser-based games suitable for switch users and beginners. |
 | [EasyToPlayGames](https://easytoplaygames.itch.io/) | 1-2 buttons, keyboard, or touch | Free | Simple browser games with minimal controls and immediate visual feedback. |
 | [T-Rex Runner](https://trex-runner.com/) | Single button or switch | Free | Endless runner game where a single input makes the dinosaur jump over obstacles. |
 | [HelpKidzLearn](https://www.helpkidzlearn.com/) | Single switch, touch, mouse, or eye gaze | Subscription | Educational and cause-and-effect games designed for learners with disabilities. |
+| [Accessible Music Ideas](https://gameaccess.info/booklet-specialeffect-accessible-music-ideas/) | 1-2 buttons and joystick | Free | Educational resource for free games online that are based around music. |
 | [SpecialBites](https://specialbites.com/) | Single switch, touch, mouse, or eye gaze | Subscription | Cause-and-effect activities and games developed for switch users and emerging communicators. |
 | [Shiny Learning](https://shinylearning.co.uk/) | Single switch, touch, mouse, or eye gaze | Subscription | Interactive learning activities and games with accessible input options. |
 | [Papunet Game Pages](https://papunet.net/gamepages/games/) | Single switch, keyboard, mouse, or touch | Free | Accessible online games and activities designed for users with diverse abilities. |
