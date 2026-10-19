@@ -78,3 +78,8 @@ markdown_extensions:
   - attr_list
   - toc:
       toc_depth: 3
+
+extra:
+  analytics:
+    provider: google
+    property: G-SNDT1ES1WX
